@@ -38,6 +38,10 @@ article {
     overflow: hidden;
 }
 
+#intro {
+    color: lightgrey;
+}
+
 #mkparagraph {
     font-size: larger;
     Color: black;
