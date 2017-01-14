@@ -9,7 +9,7 @@ div.container {
 header, footer {
     padding: 1em
     color: red
-    background-color black;
+    background-color: black;
     clear: left;
     text-align: center
 }
@@ -18,7 +18,7 @@ nav {
     float: left;
     color: green;
     max-width: 160px:
-    margin: 0
+    margin: 0;
     padding: 1em;
 }
 
