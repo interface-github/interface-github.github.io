@@ -9,7 +9,7 @@ header h1 {
 }
 
 header {
-  background: url('img/omaha.jpg');
+  background: url('/img/omaha.jpg');
   width: 100%;
   padding: 50px;
   text-align: center; 
