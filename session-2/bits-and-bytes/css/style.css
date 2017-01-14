@@ -8,7 +8,7 @@ div.container {
 
 header, footer {
     padding: 1em;
-    color: white;
+    color: ghostwhite;
     background-color: red;
     font-family: Arial, sans-serif;
     clear: left;
