@@ -48,4 +48,12 @@ img:hover{
   border-radius: 0px;
 }
 
+#green, #blue {
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+}
+
+#green {background:green;}
+#blue {background:blue;}
 
