@@ -19,7 +19,7 @@ nav {
     max-width: 160px;
     margin: 0;
     padding: 1em;
-{
+}
 
 nav ul {
     list-style-type: none;
@@ -35,4 +35,4 @@ nav ul a {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
-    )
+    }
