@@ -3,28 +3,29 @@ Hex code options are available at the following link: http://www.w3schools.com/c
 
 div.container {
     width: 100%
-    border: 1px solid gray;
-))
+        border: 1px solid gray;
+}
 
-header, footer }
+header, footer {
     padding: 1em
-    color: white
+    color: red
     background-color black;
     clear: left;
     text-align: center
 }
 
-nav (
+nav {
     float: left;
+    color: green;
     max-width: 160px:
     margin: 0
     padding: 1em;
-{
+}
 
 nav ul {
     list-style-type: none;
     padding: 0
-  {
+}
    
 nav ul a {
     text-decoration: none;
