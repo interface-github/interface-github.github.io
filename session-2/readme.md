@@ -1,12 +1,12 @@
-<b><font color="red">Here's your task!</font></b>
+<b><font color="red">Today's session</font></b>
 <hr/>
-<ul>
-  <li>Break into groups of 3</li>
-  <li>Assign yourselves to a folder</li>
-  <li>Open the folder and open the index.html file</li>
-  <li>Find and fix the errors in the HTML document</li>
-  <li>Open the css folder and open the style.css file</li>
-  <li>Find and fix the errors in the css file</li>
-  <li>Open the website in a new browser window to test your fixes</li>
-</ul>
+<ol>
+  <li>Group work - fix the broken website!</li>
+  <li>Delete our code and build a basic site from the ground up (repeat all of day 1 in 45 minutes)</li>
+  <li>Explore CSS with Codecademy</li>
+  <li>Use our new CSS skills to create a new site - instructions in homework.md file</li>
+  <li>jQuery demo and homework review for Wednesday</li>
+  <li>End of class - #enjoytheweekend</li>
+  
+</ol>
   
