@@ -41,7 +41,7 @@ article {
 .mark {
     width: 100%;
     color: blue;
-    border: 1px solid blue;
+    border: 1px 1px 0px 1px solid blue;
 }
 
 .olany {
