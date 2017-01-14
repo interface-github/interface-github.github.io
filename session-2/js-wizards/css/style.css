@@ -46,3 +46,9 @@ article {
     Color: green;
     font-family: san-serif;
 }
+
+#jbparagraph {
+    text-align: right;
+    border: 10px solid red;
+    color: yellow;
+}
