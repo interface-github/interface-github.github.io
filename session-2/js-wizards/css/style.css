@@ -39,7 +39,8 @@ article {
 }
 
 #mkparagraph {
-    Color: orange;
+    font-size: larger;
+    Color: black;
     font-family: san-serif;
 }
 
