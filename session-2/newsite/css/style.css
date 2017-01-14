@@ -7,3 +7,12 @@ selector {
 header h1 {
   color: #00802b;
 }
+
+header {
+  background: url('img/omaha.jpg');
+  width: 100%;
+  padding: 50px;
+  text-align: center; 
+  background-size: cover;
+}
+
