@@ -16,14 +16,14 @@ header, footer {
 
 nav {
     float: left;
-    max-width: 160px:
-    margin: 0
+    max-width: 160px;
+    margin: 0px;
     padding: 1em;
 }
 
 nav ul {
     list-style-type: none;
-    padding: 0
+    padding: 0px;
 }
    
 nav ul a {
