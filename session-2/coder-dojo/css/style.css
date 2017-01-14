@@ -9,7 +9,7 @@ div.transbox {
     margin: 30px;
     border: 1px solid black;
     background-color: white;
-    opacity: 0.6;
+    opacity: 1;
 }
 
 header, footer {
