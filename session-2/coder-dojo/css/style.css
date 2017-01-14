@@ -5,6 +5,11 @@ div.container {
     width: 100%;
     border: 1px #b22222;
 }
+div.transbox {
+    margin: 30px;
+    border: 1px solid black;
+    opacity: 0.6;
+}
 
 header, footer {
     padding: 1em;
