@@ -2,16 +2,16 @@
 Hex code options are available at the following link: http://www.w3schools.com/colors/colors_picker.asp */
 
 div.container {
-    width: 100%
+    width: 100%;
     border: 1px solid gray;
-))
+}
 
-header, footer }
-    padding: 1em
-    color: white
-    background-color black;
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
     clear: left;
-    text-align: center
+    text-align: center;
 }
 
 nav (
