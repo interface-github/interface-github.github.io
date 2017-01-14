@@ -3,12 +3,12 @@ Hex code options are available at the following link: http://www.w3schools.com/c
 
 div.container {
     width: 100%;
-    border: 1px solid gray;
+    border: 1px firebrick;
 }
 
 header, footer {
     padding: 1em;
-    color: white;
+    color: black;
     background-color: #b3d9ff;
     clear: left;
     text-align: center;
