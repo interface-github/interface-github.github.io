@@ -1,7 +1,7 @@
 /*once your team fixes all the issues on the stylesheet, have some fun with changing the colors on this stylesheet using hex codes.
 Hex code options are available at the following link: http://www.w3schools.com/colors/colors_picker.asp */
 
-.container {
+div.container {
     width: 100%;
     border: 1px #b22222;
 }
