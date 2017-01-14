@@ -3,7 +3,7 @@ Hex code options are available at the following link: http://www.w3schools.com/c
 
 div.container {
     width: 100%;
-    border: 1px firebrick;
+    border: 1px #b22222;
 }
 
 header, footer {
