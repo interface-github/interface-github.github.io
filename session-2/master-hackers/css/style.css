@@ -37,3 +37,16 @@ article {
     overflow: hidden;
     background-color: yellow;
 }
+
+.mark {
+    width: 100%;
+    color: blue;
+    border: 1px solid blue;
+}
+
+.olany {
+    width: 100%;
+    color: red;
+    border: 1px solid red;
+}
+
