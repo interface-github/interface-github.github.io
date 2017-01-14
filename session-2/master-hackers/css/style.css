@@ -9,7 +9,7 @@ div.container {
 header, footer {
     padding: 1em;
     color: white;
-    background-color black;
+    background-color: black;
     clear: left;
     text-align: center;
 }
@@ -35,10 +35,5 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
-}
-
-member1 {
-    width: 100%;
-    color: blue;
-    border: 1px solid blue;
+    background-color: yellow;
 }
