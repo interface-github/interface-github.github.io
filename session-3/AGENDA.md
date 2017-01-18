@@ -1,4 +1,4 @@
-<b><u>Agenda for tonight</u></b>
+<b><ul>Agenda for tonight</ul></b>
 <ol>
 <li>jQuery Review</li>
 <li>In Class jQuery Project</li>
