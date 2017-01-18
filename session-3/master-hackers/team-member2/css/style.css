@@ -1,0 +1,52 @@
+/*once your team fixes all the issues on the stylesheet, have some fun with changing the colors on this stylesheet using hex codes.
+Hex code options are available at the following link: http://www.w3schools.com/colors/colors_picker.asp */
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+    background-color: yellow;
+}
+
+.mark {
+    width: 100%;
+    color: blue;
+    border: 1px solid blue;
+}
+
+.olany {
+    width: 100%;
+    color: red;
+    border: 1px solid red;
+}
+
