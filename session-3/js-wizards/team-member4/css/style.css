@@ -1,0 +1,62 @@
+/*once your team fixes all the issues on the stylesheet, have some fun with changing the colors on this stylesheet using hex codes.
+Hex code options are available at the following link: http://www.w3schools.com/colors/colors_picker.asp  */
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+    background: lightgrey;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: grey;
+    clear: left;
+    text-align: left;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+#intro {
+    color: grey;
+}
+
+#mkparagraph {
+    font-size: larger;
+    Color: black;
+    font-family: san-serif;
+    background-color: orange;
+}
+
+#awparagraph {
+    Color: green;
+    font-family: italic;
+  
+}
+
+#jbparagraph {
+    text-align: right;
+    border: 10px solid red;
+    color: blue;
+}
