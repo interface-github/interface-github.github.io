@@ -42,6 +42,10 @@ header, footer {
     clear: left;
 }
 
+.header-color {
+    background-color: #49E83E;
+}
+
 /* ---- Horizontal Nav ---- */
 nav ul {
     text-align:center;
