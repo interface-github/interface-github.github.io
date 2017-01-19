@@ -5,7 +5,7 @@ $(document).ready(function() {
     
        $("img").fadeOut("slow");
     });
-    $("h1").click(function(){
+    $("header").click(function(){
     
        $("header").css( "background-color", "red");  
         
