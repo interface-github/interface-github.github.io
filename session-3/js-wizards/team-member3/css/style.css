@@ -9,6 +9,9 @@ html {
 body {
     font-family: 'Roboto Condensed', sans-serif;
     max-width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header {
