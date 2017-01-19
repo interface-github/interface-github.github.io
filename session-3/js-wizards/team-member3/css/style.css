@@ -19,6 +19,10 @@ footer {
     background: #49E83E;
 }
 
+footer a:link {
+    text-decoration: none;
+}
+
 header, footer {
     text-align: center;
     padding: 1em;
