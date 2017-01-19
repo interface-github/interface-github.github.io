@@ -27,6 +27,7 @@ nav {
 }
 nav ul {
     list-style-type: none;
+    display: block;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -40,7 +41,7 @@ nav li {
 }
 
 nav li a {
-    display: inline;
+    display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
