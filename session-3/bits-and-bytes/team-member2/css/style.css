@@ -14,6 +14,7 @@ header, footer {
 header {
     font-family: Raleway, "Open Sans", sans-serif; 
     background-color: #e6fff2;
+    font-size: 150%
 }
 
 nav {
