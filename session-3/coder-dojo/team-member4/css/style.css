@@ -23,11 +23,17 @@ div.transbox2 {
 
 header, footer {
     padding: 1em;
-    color: firebrick;
     background-color: #b3d9ff;
     clear: left;
     text-align: center;
     font-family: orbitron;
+}
+header{
+    color:black;
+}
+
+footer{
+    color:blue;
 }
 
 nav {
