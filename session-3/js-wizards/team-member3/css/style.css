@@ -42,7 +42,7 @@ header, footer {
     clear: left;
 }
 
-.header-color {
+header.header-color {
     background-color: #49E83E;
 }
 
