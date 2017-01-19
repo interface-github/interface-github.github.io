@@ -24,14 +24,28 @@ nav {
     padding: 1em;
     font-family: Open Sans, sans-serif;
 }
-
 nav ul {
     list-style-type: none;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
-   
-nav ul a {
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
+}
+
+li a:hover {
+    background-color: #e6fff2;
 }
 
 article {
