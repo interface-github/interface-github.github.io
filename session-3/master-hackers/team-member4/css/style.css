@@ -56,6 +56,6 @@ article {
     border: 1px solid red;
 }
 
-nav footer {
+nav, footer {
     background-color: orange;
 }
