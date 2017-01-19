@@ -3,7 +3,6 @@ Hex code options are available at the following link: http://www.w3schools.com/c
 
 div.container {
     width: 100%;
-    border: 1px solid gray;
 }
 
 header, footer {
@@ -19,9 +18,8 @@ header {
 
 nav {
     float: left;
-    max-width: 160px;
+    width: 100%;;
     margin: 0px;
-    padding: 1em;
     font-family: "Open Sans", sans-serif;
     line-height: 2em;
 }
