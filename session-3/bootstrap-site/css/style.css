@@ -7,12 +7,15 @@ section {
 
 #top {
   background: url('https://static.pexels.com/photos/196464/pexels-photo-196464.jpeg');
+  background-size: cover;
 }
 
 #middle {
-  background: url('https://static.pexels.com/photos/1029/landscape-mountains-nature-clouds.jpg') 
+  background: url('https://static.pexels.com/photos/1029/landscape-mountains-nature-clouds.jpg');
+  background-size: cover;
 }
 
 #bottom {
   background: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg');
+  background-size: cover;
 }
