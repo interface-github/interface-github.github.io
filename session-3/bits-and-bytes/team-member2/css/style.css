@@ -71,10 +71,10 @@ p {
 li {
     font-family: "Open Sans", sans-serif;
     line-height: 1.5em;
-}
-a {
     text-decoration: none;
-    color: black;
+}
+li a:link, a:visted {
+    color: black
 }
 a:hover{
     color: #e6fff2;
@@ -85,4 +85,8 @@ footer {
     text-decoration: none;
     color: #e6fff2;
     background-color: #4d4d4d;
+}
+footer a{
+    text-decoration: none;
+    color: #e6fff2;
 }
