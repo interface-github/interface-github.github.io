@@ -72,6 +72,8 @@ nav li a:hover {
 div.container {
     background: #FFD432;
     color: white;
+    text-align: center;
+    padding: .5em;
 }
 
 
