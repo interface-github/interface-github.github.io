@@ -8,8 +8,8 @@ div.container {
 
 header, footer {
     padding: 1em;
-    color: white;
-    background-color: black;
+    color: green;
+    background-color: red;
     clear: left;
     text-align: center;
 }
@@ -27,7 +27,7 @@ nav ul {
     }
    
 nav ul a {
-    text-decoration: none;
+    text-decoration: overpass;
 }
 
       article {
