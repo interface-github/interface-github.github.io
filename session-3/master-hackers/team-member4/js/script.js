@@ -7,7 +7,7 @@ $(document).ready(function() {
     });
     $("h1").click(function(){
     
-       $(event.delegateTarget ).css( "background-color", "slow");  
+       $(:header").css( "background-color", "red");  
         
     });
 
