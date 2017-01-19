@@ -80,6 +80,8 @@ div.content {
     padding: 1em 3em;
 }
 
-ul.favorite-list {
-    list-style: none;
+#favorite-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
