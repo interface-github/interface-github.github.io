@@ -100,3 +100,6 @@ div.content {
 }
 
 /* ---- Hide img / h1 for jQuery fade ---- */
+h1, img {
+    display: none;
+}
