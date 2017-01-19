@@ -1,5 +1,6 @@
 /* 
 */
 $(document).ready(function(){
-  $("img", "h1").fadeIn(3000);
+  $("img").fadeIn(3000);
+  $("h1").fadeIn(3000);
 });
