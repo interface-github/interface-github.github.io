@@ -69,3 +69,9 @@ p2{
 p3{
     font-family: "Impact", sans-serif;
 }
+
+img {
+  height:200px;
+  width:200px;
+  border-radius:200px
+}
