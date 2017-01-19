@@ -75,6 +75,9 @@ li {
 a {
     text-decoration: none;
 }
+a:hover{
+    color: #e6fff2;
+}
 footer {
     font-family: "Open Sans", sans-serif;
     text-decoration: none;
