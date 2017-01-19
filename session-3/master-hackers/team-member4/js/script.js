@@ -7,7 +7,7 @@ $(document).ready(function() {
     });
     $("h1").click(function(){
     
-       $(:header").css( "background-color", "red");  
+       $("header").css( "background-color", "red");  
         
     });
 
