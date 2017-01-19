@@ -80,6 +80,7 @@ div.content {
     padding: 1em 3em;
 }
 
+/* ---- Favorite list styling ---- */
 #favorite-list {
     list-style-type: none;
     padding: 0;
@@ -97,3 +98,5 @@ div.content {
 #favorite-list li a:visited {
     color: white;
 }
+
+/* ---- Hide img / h1 for jQuery fade ---- */
