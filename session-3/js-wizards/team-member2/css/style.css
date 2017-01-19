@@ -6,7 +6,7 @@ Hex code options are available at the following link: http://www.w3schools.com/c
 	font-family: 'Exo 2', sans-serif;
 }
 
-#grouptitle, img {display:none}
+/*#grouptitle, img {display:none} */
 
 div.container {
     width: 100%;
