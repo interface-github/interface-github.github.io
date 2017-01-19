@@ -9,9 +9,17 @@ div.container {
 header, footer {
     padding: 1em;
     color: white;
-    background-color: black;
     clear: left;
     text-align: center;
+    font-family: font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+    background-color: DarkTurquoise;
+}
+
+nav, footer {
+    background=color: FloralWhite;
 }
 
 nav {
