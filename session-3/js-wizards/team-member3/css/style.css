@@ -87,6 +87,11 @@ div.content {
     margin-right: auto;
 }
 
+button {
+    background-color: blue;
+    color: white;
+}
+
 /* ---- Favorite list styling ---- */
 #favorite-list {
     list-style-type: none;
