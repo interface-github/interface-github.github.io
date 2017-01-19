@@ -6,6 +6,10 @@ div.container {
     border: 1px solid gray;
 }
 
+img {
+    border-radius: 50%
+}
+
 header, footer {
     padding: 1em;
     color: white;
