@@ -75,3 +75,6 @@ img {
   width:200px;
   border-radius:200px
 }
+img,h1{
+    display: none;
+}
