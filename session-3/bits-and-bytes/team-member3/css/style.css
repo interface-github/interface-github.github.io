@@ -7,7 +7,9 @@ div.container {
 }
 
 img {
-    border-radius: 50%
+    border-radius: 50%;
+    height: 200px;
+    width: 300px
 }
 
 header, footer {
@@ -19,8 +21,9 @@ header, footer {
 }
 
 * {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: Arial, 'Roboto Condensed', sans-serif;
 }
+
 header {
     background-color: DarkTurquoise;
 }
