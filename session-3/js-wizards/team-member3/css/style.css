@@ -16,6 +16,7 @@ body {
 
 header {
     background: #45CCFF;
+    padding: 1em;
 }
 
 footer {
@@ -36,7 +37,6 @@ footer a:hover {
 
 header, footer {
     text-align: center;
-    padding: 1em;
     color: white;
     clear: left;
 }
