@@ -80,6 +80,10 @@ div.content {
     padding: 1em 3em;
 }
 
+#cat {
+    max-width: 70%;
+}
+
 /* ---- Favorite list styling ---- */
 #favorite-list {
     list-style-type: none;
