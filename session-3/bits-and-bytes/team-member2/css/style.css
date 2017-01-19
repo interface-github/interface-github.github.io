@@ -79,11 +79,9 @@ a:hover{
 }
 footer {
     font-family: "Open Sans", sans-serif;
-    text-decoration: none;
     color: white;
     background-color: #4d4d4d;
 }
-footer a:link, a:visted {
-    color: #e6fff2;
+footer a {
     text-decoration: none;
 }
