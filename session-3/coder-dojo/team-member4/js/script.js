@@ -6,6 +6,6 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
 $("header").click(function(){
-	$("header").css(“background-color”, “red”);
+	$("header").css(“background-color”, “black”);
 });
 });
