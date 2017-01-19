@@ -35,7 +35,7 @@ nav {
     margin: 0;
     padding: 1em;
     background-color:purple;
-    text-shadow: 3px 2px black;
+   
 }
 
 nav ul {
@@ -56,6 +56,6 @@ article {
 body{
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/57/95/80/579580e3806dc333769e143a04e2d765.jpg");
 }
-p{
-    text-shadow: 3px 2px black;
+p1,p2,p3{
+    color:white
 }
