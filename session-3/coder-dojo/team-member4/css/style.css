@@ -12,13 +12,6 @@ div.transbox {
     background-color: white;
     opacity: 1;
 }
-div.transbox2 {
-    margin: 30px;
-    width: 100px;
-    border: 4px solid black;
-    background-color: white;
-    opacity: 1;
-}
 
 
 header, footer {
