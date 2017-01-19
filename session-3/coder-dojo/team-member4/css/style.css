@@ -16,7 +16,7 @@ div.transbox {
 
 header, footer {
     padding: 1em;
-    background-color: red;
+    background-color: rgba(0,255,0,0.5);
     clear: left;
     text-align: center;
     font-family: orbitron;
