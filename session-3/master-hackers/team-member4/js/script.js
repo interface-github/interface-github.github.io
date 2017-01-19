@@ -5,5 +5,10 @@ $(document).ready(function() {
     
        $("img").fadeOut("slow");
     });
+    $("h1").click(function(){
+    
+       $("img").fadeOut("slow");
+       backgroundColor = "red";
+    });
 
 });
