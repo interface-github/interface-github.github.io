@@ -8,8 +8,8 @@ div.container {
 
 header, footer {
     padding: 1em;
-    color: white;
-    background-color: black;
+    color: blue;
+    background-green: blue;
     clear: left;
     text-align: center;
 }
@@ -46,7 +46,7 @@ article {
 
 .olany {
     width: 100%;
-    color: red;
+    color: blue;
     border: 1px solid red;
 }
 
