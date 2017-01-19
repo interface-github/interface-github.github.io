@@ -78,3 +78,6 @@ img {
 img,h1,marquee{
     display: none;
 }
+button{
+    background-color: blue;
+}
