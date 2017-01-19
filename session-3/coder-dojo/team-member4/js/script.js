@@ -3,3 +3,8 @@ $(document).ready(function(){
   $("h1").fadeIn(5000);
   $("marquee").fadeIn(5000);
 });
+$(document).ready(function(){
+$("header").click(function(){
+	$("header").css(“background-color”, “red”);
+});
+});
