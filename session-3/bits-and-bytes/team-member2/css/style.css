@@ -29,7 +29,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #4d4d4d;
 }
 
 nav li {
@@ -55,11 +55,13 @@ article {
     overflow: hidden;
 }
  h1 {
-     font-family: Raleway, Open Sans, sans-serif; 
+    font-family: Raleway, Open Sans, sans-serif; 
 }
 p {
-     font-family: Open Sans, sans-serif;
+    font-family: Open Sans, sans-serif;
 }
 footer {
-     font-family: Open Sans, sans-serif;
+    font-family: Open Sans, sans-serif;
+    color: white;
+    background-color: #4d4d4d;
 }
