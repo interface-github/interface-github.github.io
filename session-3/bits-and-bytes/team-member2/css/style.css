@@ -31,6 +31,9 @@ nav ul {
     padding: 0;
     overflow: hidden;
     background-color: #4d4d4d;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 nav li {
@@ -45,13 +48,12 @@ nav li a {
     text-decoration: none;
 }
 
-li a:hover {
+nav li a:hover {
     background-color: #e6fff2;
 }
 
 article {
     margin-left: 170px;
-    border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
 }
