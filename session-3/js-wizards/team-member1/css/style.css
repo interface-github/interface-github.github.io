@@ -50,8 +50,10 @@ article {
 }
 
 #awparagraph {
+    font-size: bold;
     Color: darkgreen;
     font-family: Overpass Mono;
+    background-color: darkred
   
 }
 
