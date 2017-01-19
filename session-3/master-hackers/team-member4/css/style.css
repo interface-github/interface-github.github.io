@@ -59,3 +59,9 @@ article {
 nav, footer {
     background-color: orange;
 }
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
