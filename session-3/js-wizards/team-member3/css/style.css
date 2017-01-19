@@ -5,12 +5,6 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-    background: lightgrey;
-}
-
 header {
     background: #45CCFF;
 }
@@ -38,24 +32,6 @@ header, footer {
     clear: left;
 }
 
-/*
-nav {
-    float: left;
-    max-width: 160px;
-    margin: 0
-    padding: 1em;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-   
-nav ul a {
-    text-decoration: none;
-}
-*/
-
 /* ---- Horizontal Nav ---- */
 nav ul {
     text-align:center;
@@ -82,19 +58,10 @@ nav li a:hover {
     background-color: #B243FF;
 }
 
+/* ---- Content ----*/
 div.content {
-    margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
+    background: #FFD432;
+    color: white;
 }
 
-#intro {
-    color: grey;
-}
 
-#jbparagraph {
-    text-align: right;
-    border: 10px solid red;
-    color: blue;
-}
