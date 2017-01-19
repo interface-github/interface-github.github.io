@@ -53,6 +53,9 @@ img {
     margin: 0px 10px 10px 20px;
     clear: right;
 }
+img, h1{
+    display:none;
+}
  h1 {
     font-family: Raleway, "Open Sans", sans-serif; 
 }
@@ -69,6 +72,7 @@ li {
 }
 li a{
     text-decoration: none;
+    color: black;
 }
 li a:link, a:visted {
     color: black;
