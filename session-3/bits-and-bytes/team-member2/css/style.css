@@ -73,6 +73,9 @@ li {
     line-height: 1.5em;
     text-decoration: none;
 }
+li a{
+    text-decoration: none;
+}
 li a:link, a:visted {
     color: black
 }
@@ -87,5 +90,6 @@ footer {
     background-color: #4d4d4d;
 }
 footer a:link, a:visted {
-    color: #e6fff2
+    color: #e6fff2;
+    text-decoration: none;
 }
