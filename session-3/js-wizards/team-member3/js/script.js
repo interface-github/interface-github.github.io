@@ -6,6 +6,6 @@ $(document).ready(function(){
   });
   
   $('header').click(function() {
-    $(this).toggleClass(header-color);
+    $(this).toggleClass("header-color");
   });
 });
