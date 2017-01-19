@@ -1,5 +1,5 @@
 /*once your team fixes all the issues on the stylesheet, have some fun with changing the colors on this stylesheet using hex codes.
-Hex code options are available at the following link: hhttp://www.city-data.com/picfilesc/picc40475.php*/
+Hex code options are available at the following link:*/
 
 div.container {
     width: 100%;
@@ -9,7 +9,7 @@ div.container {
 header, footer {
     padding: 1em;
     color: blue;
-    background-color: black;
+    background-color: blue;
     clear: left;
     text-align: center;
 }
