@@ -1,6 +1,18 @@
 section {
   height: 300px;
-  h1: blue;
+  color: blue;
   padding-top: 20px;
   text-align: center;
+}
+
+#top {
+  background: url('https://static.pexels.com/photos/196464/pexels-photo-196464.jpeg');
+}
+
+#middle {
+  background: url('https://static.pexels.com/photos/1029/landscape-mountains-nature-clouds.jpg') 
+}
+
+#bottom {
+  background: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg');
 }
