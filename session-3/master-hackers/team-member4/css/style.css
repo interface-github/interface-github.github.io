@@ -15,7 +15,8 @@ header, footer {
 }
 
 header {
-    background-color: yellow;   
+    background-color: blue;
+    font-family: 'Tangerine', serif;
 }
 
 nav {
