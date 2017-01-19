@@ -86,7 +86,6 @@ footer {
     color: #e6fff2;
     background-color: #4d4d4d;
 }
-footer a{
-    text-decoration: none;
-    color: #e6fff2;
+footer a:link, a:visted {
+    color: #e6fff2
 }
