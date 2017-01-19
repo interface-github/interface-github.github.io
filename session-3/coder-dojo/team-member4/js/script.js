@@ -1,4 +1,6 @@
 $(document).ready(function(){
   $("img,h1,marquee").fadeIn(5000);
+  $("header").click(function(){
+	$("header").css(“background-color”, “red”);
 });
-/* can use , to sepurate these i just didnt want to change them. */
+});
