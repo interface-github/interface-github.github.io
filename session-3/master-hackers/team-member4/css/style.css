@@ -4,7 +4,8 @@ Hex code options are available at the following link: http://www.w3schools.com/c
 div.container {
     width: 100%;
     border: 1px solid gray;
-    background-image: url("https://static.pexels.com/photos/115/jetty-landing-stage-sea-dawn.jpg" cover); 
+    background-image: url("https://static.pexels.com/photos/115/jetty-landing-stage-sea-dawn.jpg");
+    background-size: cover; 
 }
 
 header, footer {
