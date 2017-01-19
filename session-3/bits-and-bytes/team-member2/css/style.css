@@ -23,6 +23,7 @@ nav {
     margin: 0px;
     padding: 1em;
     font-family: Open Sans, sans-serif;
+    line-height: 2em;
 }
 nav ul {
     list-style-type: none;
