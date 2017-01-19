@@ -37,6 +37,7 @@ footer {
     background-color: #b3d9ff;
     clear: left;
     text-align: center;   
+    background-color: light brown;
 }
 
 nav {
@@ -44,6 +45,7 @@ nav {
     max-width: 160px;
     margin: 0;
     padding: 1em;
+    background-color: #cc99ff;
 }
 
 nav ul {
