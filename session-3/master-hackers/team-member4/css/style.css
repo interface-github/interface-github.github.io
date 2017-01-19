@@ -26,10 +26,6 @@ nav {
     padding: 1em;
 }
 
-nav footer {
-    background-color: orange;
-}
-
 
 nav ul {
     list-style-type: none;
@@ -60,3 +56,6 @@ article {
     border: 1px solid red;
 }
 
+nav footer {
+    background-color: orange;
+}
