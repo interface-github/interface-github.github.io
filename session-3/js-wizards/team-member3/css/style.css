@@ -11,10 +11,14 @@ div.container {
     background: lightgrey;
 }
 
+header {
+    background: #45CCFF;
+    text-align: center;
+}
+
 header, footer {
     padding: 1em;
     color: white;
-    background-color: grey;
     clear: left;
     text-align: left;
 }
