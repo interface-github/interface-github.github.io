@@ -20,7 +20,7 @@ footer {
 }
 
 footer a {
-    color: #000;
+    color: white;
 }
 
 footer a:link {
@@ -28,7 +28,7 @@ footer a:link {
 }
 
 footer a:hover {
-    color: #FFD432;
+    color: #E84B30;
 }
 
 header, footer {
