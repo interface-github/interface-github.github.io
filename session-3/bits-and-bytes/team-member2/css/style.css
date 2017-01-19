@@ -55,6 +55,10 @@ article {
     padding: 1em;
     overflow: hidden;
 }
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
  h1 {
     font-family: Raleway, Open Sans, sans-serif; 
 }
