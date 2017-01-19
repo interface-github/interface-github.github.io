@@ -1,4 +1,4 @@
 $(document).ready(function() {
   $("#accordion").accordion();
-  $("img").fadeIn(5000);
+  $("img, h1").fadeIn(5000);
 });
