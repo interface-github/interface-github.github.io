@@ -103,3 +103,7 @@ div.content {
 h1, img {
     display: none;
 }
+
+img.parrot {
+    display: inline;
+}
