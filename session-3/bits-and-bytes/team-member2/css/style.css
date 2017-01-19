@@ -13,7 +13,7 @@ header, footer {
     text-align: center;
 }
 header {
-    font-family: Raleway, Open Sans, sans-serif; 
+    font-family: Raleway, "Open Sans", sans-serif; 
     background-color: #e6fff2;
 }
 
@@ -22,7 +22,7 @@ nav {
     max-width: 160px;
     margin: 0px;
     padding: 1em;
-    font-family: Open Sans, sans-serif;
+    font-family: "Open Sans", sans-serif;
     line-height: 2em;
 }
 nav ul {
@@ -63,16 +63,20 @@ img {
     clear: right;
 }
  h1 {
-    font-family: Raleway, Open Sans, sans-serif; 
+    font-family: Raleway, "Open Sans", sans-serif; 
 }
  h3 {
-    font-family: Raleway, Open Sans, sans-serif; 
+    font-family: Raleway, "Open Sans", sans-serif; 
 }
 p {
-    font-family: Open Sans, sans-serif;
+    font-family: "Open Sans", sans-serif;
+}
+li {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.5em;
 }
 footer {
-    font-family: Open Sans, sans-serif;
+    font-family: "Open Sans", sans-serif;
     color: white;
     background-color: #4d4d4d;
 }
