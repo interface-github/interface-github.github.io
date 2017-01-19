@@ -1,6 +1,13 @@
 /*once your team fixes all the issues on the stylesheet, have some fun with changing the colors on this stylesheet using hex codes.
 Hex code options are available at the following link: http://www.w3schools.com/colors/colors_picker.asp  */
 
+
+*{
+	font-family: 'Exo 2', sans-serif;
+}
+
+#grouptitle, img {display:none}
+
 div.container {
     width: 100%;
     border: 1px solid gray;
@@ -8,6 +15,8 @@ div.container {
 }
 
 header, footer {
+	font-size: larger;
+	font-weight: 900;
     padding: 1em;
     color: white;
     background-color: grey;
@@ -42,21 +51,18 @@ article {
     color: grey;
 }
 
-#mkparagraph {
-    font-size: larger;
-    Color: black;
-    font-family: san-serif;
-    background-color: orange;
+#dog {
+	width: 200px;
 }
 
-#awparagraph {
-    Color: green;
-    font-family: italic;
-  
+#portfolio {
+	width: 128px;
 }
 
-#jbparagraph {
-    text-align: right;
-    border: 10px solid red;
-    color: blue;
+#plearning {
+	#
+}
+
+#pabout {
+	#
 }
