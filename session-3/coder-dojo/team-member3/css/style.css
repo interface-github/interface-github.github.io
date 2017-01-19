@@ -33,6 +33,10 @@ header {
     font-family: "Indie Flower";
 }
 
+footer {
+    background: darkturquoise;
+}
+
 nav {
     float: left;
     max-width: 160px;
