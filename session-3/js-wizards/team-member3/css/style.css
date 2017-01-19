@@ -93,3 +93,7 @@ div.content {
 #favorite-list li a:hover {
     background-color: #B243FF;
 }
+
+#favorite-list li a:visited {
+    color: white;
+}
