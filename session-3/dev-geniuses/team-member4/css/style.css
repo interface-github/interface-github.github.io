@@ -7,11 +7,12 @@ div.container {
 }
 
 header, footer {
-    padding: 1em;
-    color: white;
+    padding:1em;
+    color:yellow;
     background-color: black;
-    clear: left;
-    text-align: center;
+    clear:left;
+    text-align:center;
+    font-family:Arsenal;
 }
 
 nav {
