@@ -24,9 +24,12 @@ div.transbox2 {
 header, footer {
     padding: 1em;
     color: firebrick;
-    background-color: #b3d9ff;
     clear: left;
     text-align: center;
+}
+
+header {
+    background: #fff;
 }
 
 nav {
