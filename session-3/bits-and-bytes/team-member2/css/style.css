@@ -74,6 +74,9 @@ li {
     font-family: "Open Sans", sans-serif;
     line-height: 1.5em;
 }
+a {
+    text-decoration: none;
+}
 footer {
     font-family: "Open Sans", sans-serif;
     color: white;
