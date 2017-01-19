@@ -7,8 +7,8 @@ $(document).ready(function() {
     });
     $("h1").click(function(){
     
-       $("img").fadeOut("slow");
-       backgroundColor = "red";
+       $(event.delegateTarget ).css( "background-color", "slow");  
+        
     });
 
 });
