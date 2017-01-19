@@ -1,9 +1,10 @@
 $(document).ready(function() {
 
-    $("img, h1").fadeIn(9000);
+    $("img").fadeIn(9000);
+    $("h1").fadeIn(4500);
     $("button").click(function(){
     
-       $("img").fadeOut("slow");
+       $("img").fadeOut(3300);
     });
     $("header").click(function(){
     
