@@ -1,4 +1,4 @@
 $(document).ready(function() {
-	  $("img").hide();
+	  $("img").fadeOut("slow");
    
  });
