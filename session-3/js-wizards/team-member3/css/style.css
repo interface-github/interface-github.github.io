@@ -13,10 +13,14 @@ div.container {
 
 header {
     background: #45CCFF;
-    text-align: center;
+}
+
+footer {
+    background: #49E83E;
 }
 
 header, footer {
+    text-align: center;
     padding: 1em;
     color: white;
     clear: left;
