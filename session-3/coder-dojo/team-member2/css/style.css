@@ -12,6 +12,7 @@ div.transbox {
     background-color: white;
     opacity: 1;
 }
+
 div.transbox2 {
     margin: 30px;
     width: 100px;
@@ -21,12 +22,20 @@ div.transbox2 {
 }
 
 
-header, footer {
+header  {
+    padding: 1em;
+    color: #47d147;
+    background-color: #ff3333;
+    clear: left;
+    text-align: center;
+}
+
+footer {
     padding: 1em;
     color: firebrick;
     background-color: #b3d9ff;
     clear: left;
-    text-align: center;
+    text-align: center;   
 }
 
 nav {
