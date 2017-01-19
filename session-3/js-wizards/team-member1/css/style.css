@@ -3,14 +3,14 @@ Hex code options are available at the following link: http://www.w3schools.com/c
 
 div.container {
     width: 100%;
-    border: 1px solid gray;
-    background: lightgrey;
+    border: 1px solid green;
+    background: lightblue;
 }
 
 header, footer {
     padding: 1em;
-    color: white;
-    background-color: grey;
+    color: orange;
+    background-color: purple;
     clear: left;
     text-align: left;
 }
@@ -33,13 +33,13 @@ nav ul a {
 
 article {
     margin-left: 170px;
-    border-left: 1px solid gray;
+    border-left: 1px solid white;
     padding: 1em;
     overflow: hidden;
 }
 
 #intro {
-    color: grey;
+    color: darkred;
 }
 
 #mkparagraph {
@@ -50,8 +50,8 @@ article {
 }
 
 #awparagraph {
-    Color: green;
-    font-family: italic;
+    Color: lightgreen;
+    font-family: san-serif;
   
 }
 
