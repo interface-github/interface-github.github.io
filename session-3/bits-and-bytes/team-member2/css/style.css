@@ -59,7 +59,8 @@ article {
 }
 img {
     float: right;
-    margin: 0 0 10px 10px;
+    margin: 10 10 10px 10px;
+    clear: right;
 }
  h1 {
     font-family: Raleway, Open Sans, sans-serif; 
