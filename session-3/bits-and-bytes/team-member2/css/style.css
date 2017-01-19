@@ -9,12 +9,12 @@ div.container {
 header, footer {
     padding: 1em;
     color: white;
-    background-color: black;
     clear: left;
     text-align: center;
 }
 header {
     font-family: Raleway, Open Sans, sans-serif; 
+    background-color: #e6fff2, rgb(230, 255, 242)};
 }
 
 nav {
