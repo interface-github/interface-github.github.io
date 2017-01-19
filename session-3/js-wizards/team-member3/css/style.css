@@ -19,8 +19,16 @@ footer {
     background: #49E83E;
 }
 
+footer a {
+    color: #000;
+}
+
 footer a:link {
     text-decoration: none;
+}
+
+footer a:hover {
+    color: #FFD432;
 }
 
 header, footer {
