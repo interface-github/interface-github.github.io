@@ -60,6 +60,11 @@ article {
     overflow: hidden;
 }
 
+img {
+	height: 200px;
+	width: 200px;
+}
+
 body{
  background-color: black
    
