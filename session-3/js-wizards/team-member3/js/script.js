@@ -4,4 +4,8 @@ $(document).ready(function(){
   $('button').click(function() {
     $('#cat').fadeOut('fast');
   });
+  
+  $('header').click(function() {
+    $(this).toggleClass(header-color);
+  });
 });
