@@ -61,11 +61,11 @@ p1,p2,p3{
     color:white
 }
 p1{
-    font-size: 25px;
+    font-family: Georgia, serif;
 }
 p2{
-    font-size: 30px;
+    font-size: "Comic Sans MS", cursive, sans-serif;
 }
 p3{
-    font-size: 400px;
+    font-family: "Impact", sans-serif;
 }
