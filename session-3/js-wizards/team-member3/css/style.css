@@ -85,3 +85,11 @@ div.content {
     padding: 0;
     margin: 0;
 }
+
+#favorite-list li a {
+    text-decoration: none;
+}
+
+#favorite-list li a:hover {
+    background-color: #B243FF;
+}
