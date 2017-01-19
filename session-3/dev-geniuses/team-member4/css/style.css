@@ -21,6 +21,7 @@ nav {
     margin: 0;
     padding: 1em;
     background-color:navy;
+    color:white;
 }
 
 nav ul {
@@ -38,6 +39,7 @@ nav ul a {
     padding: 1em;
     overflow: hidden;
     }
+
 img {
     height=200px;
     width=200px;
