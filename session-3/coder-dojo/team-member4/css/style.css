@@ -79,5 +79,5 @@ img,h1,marquee{
     display: none;
 }
 button{
-    background-color: blue;
+    background-color: rgba(0,0,255,0.5);
 }
