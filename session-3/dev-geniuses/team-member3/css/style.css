@@ -8,8 +8,8 @@ div.container {
 
 header, footer {
     padding: 1em;
-    color: green;
-    background-color: red;
+    color: white;
+    background-color: black;
     clear: left;
     text-align: center;
 }
