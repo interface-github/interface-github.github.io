@@ -1,4 +1,4 @@
-$(document).ready(function() {
-	  $("img").fadeIn("slow");
+//$(document).ready(function() {
+//	  $("img").fadeIn("slow");
    
- });
+ //});
