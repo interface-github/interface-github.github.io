@@ -1,4 +1,4 @@
 
 $(document).ready(function(){
-	$("img").fadeOut("slow")
+	$("img").fadeOut("3000")
 });
