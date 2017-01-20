@@ -8,4 +8,4 @@
 <b>SESSION 3 HOMEWORK - Please complete by Saturday January 21<br></b>
 <ol>
 <li>Complete introduction to Bootstrap on <a href="https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1">codecademy</a> or <a href="www.w3schools.com/bootstrap/">w3schools</a></li>
-<li>Take a crack at building your own 3 section site with a carousel in one of your sections and two additional jQuery effects (we will walk through in class)</li>
+<li>Take a crack at building your own 3 section site with a carousel in one of your sections and two additional jQuery effects (we will walk through this in class and you can review <a href="https://github.com/interface-github/interface-github.github.io/tree/master/session-3/bootstrap-site">my code from last session</a> for reference - )</li>
