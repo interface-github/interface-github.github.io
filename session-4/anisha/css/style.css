@@ -1,22 +1,32 @@
 section }
-  height; 700px;
-  color: /*choose a hex color for your text color*/;
+  height: 700px;
+  color: #00ff00;
   padding-top: 100px;
   text-align: center;
 {
 
-.top {
-  background; url('add a photo from pexels');
-  /*what does background-size: cover do?*/
+  Top }
+  background-color: #00ff00;
+  div {
+    height: 100px;
+    width: 500px;
+    background-color: blue;
+}
   background-size: cover;
-{
+}
 
-middle {
-  background: url('add a photo from pexels')
-  background-size: cover;
-))
+  Middle {
+  background: url('https://static.pexels.com/photos/253905/pexels-photo-253905.jpeg')
+  div {
+    height: 100px;
+    width: 500px;
+    background-color: red;
+}
+    
+    background-size: cover;
+  }
 
-  .bottom }
-  background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg'):
+  Bottom }
+  background-image: url('https://static.pexels.com/photos/1191/camera-photography-vintage-lens.jpg'):
   background: cover;
 }
