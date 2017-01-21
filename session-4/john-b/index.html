@@ -82,6 +82,17 @@
 
         <section id="middle">
           <h1>This is a title (middle)</h1>
+          <form class="form-inline">
+            <label class="sr-only" for="inlineFormInput">FirstName</label>
+            <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" id="inlineFormInput" placeholder="First">
+
+            <label class="sr-only" for="inlineFormInputGroup">LastName</label>
+            <div class="input-group mb-2 mr-sm-2 mb-sm-0">
+              <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="Last">
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
           <div class="row">
             <div class="col-md-8">
               <a href="https://en.wikipedia.org/wiki/Squirrel" class="fade-js"><img src="https://static.pexels.com/photos/237887/pexels-photo-237887.jpeg" alt="Squirrel"></a>
@@ -105,24 +116,6 @@
             </div>
           </div>
         </section>
-          <form class="form-inline">
-            <label class="sr-only" for="inlineFormInput">Name</label>
-            <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" id="inlineFormInput" placeholder="Jane Doe">
-
-            <label class="sr-only" for="inlineFormInputGroup">Username</label>
-            <div class="input-group mb-2 mr-sm-2 mb-sm-0">
-              <div class="input-group-addon">@</div>
-              <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="Username">
-            </div>
-
-            <div class="form-check mb-2 mr-sm-2 mb-sm-0">
-              <label class="form-check-label">
-                <input class="form-check-input" type="checkbox"> Remember me
-              </label>
-            </div>
-
-            <button type="submit" class="btn btn-primary">Submit</button>
-          </form>
     </div>
   </body>
 </html>
