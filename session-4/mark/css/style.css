@@ -5,6 +5,10 @@ section {
   text-align: center;
 }
 
+head {
+     padding-top: 200px
+     }
+
 #top {
   background: url('https://static.pexels.com/photos/173910/pexels-photo-173910.jpeg');
   /*what does background-size: cover do?*/
