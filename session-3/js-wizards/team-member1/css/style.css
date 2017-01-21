@@ -62,3 +62,17 @@ article {
     border: 10px solid red;
     color: blue;
 }
+
+
+@media screen and (min-width: 480px) {
+	body {
+    	background-color: lightgreen;
+    }
+    header {
+        background: yellow;
+    }
+    img {
+        border-radius: 200px;
+    }
+   
+}
