@@ -1,8 +1,11 @@
 section {
   /* height: 700px; */
   color: #800040;
-  padding-top: 50px;
+  /* padding-top: 50px; */
   text-align: center;}
+.container {
+  padding-top: 50px;
+}
 /*
 #top {
   background: url("https://static.pexels.com/photos/129881/pexels-photo-129881.jpeg");
