@@ -1,18 +1,18 @@
 section {
   height: 700px;
-  color: /*choose a hex color for your text color*/;
+  color: ##5575a8;
   padding-top: 100px;
   text-align: center;
 }
 
 .top {
-  background: url('add a photo from pexels');
+  background: url('https://static.pexels.com/photos/297954/pexels-photo-297954.jpeg');
   /*what does background-size: cover do?*/
   background-size: cover;
 }
 
 middle {
-  background: url('add a photo from pexels');
+  background: url('https://static.pexels.com/photos/39811/pexels-photo-39811.jpeg');
   background-size: cover;
 }
 
