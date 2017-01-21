@@ -45,3 +45,8 @@ img {
     width=20px;
     border-radius:20px;
    }
+@media screen and (min-width: 480px) {
+	body {
+    	background-color: lightgreen;
+    }
+}
