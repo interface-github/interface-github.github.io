@@ -75,14 +75,8 @@ button{
     background-color: rgba(0,0,255,0.5);
 }
 
-@media screen and (max-width:480px) {
-    body {
-        background-color: lightgreen;
-    }
-    header{
-        background: yellow;
-    }
-    img{
-        border-radius:200px
+@media screen and (min-width: 480px) {
+	body {
+    	background-color: lightgreen;
     }
 }
