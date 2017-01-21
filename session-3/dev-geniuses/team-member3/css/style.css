@@ -36,3 +36,8 @@ nav ul a {
     padding: 1em;
     overflow: hidden;
     }
+@media screen and (min-width: 480px) {
+	body {
+    	background-color: lightgreen;
+    }
+}
