@@ -1,22 +1,22 @@
 section {
   height: 700px;
-  color: #f1f1f1;
+  color: Blue;
   padding-top: 100px;
   text-align: center;
 }
 
 .top {
-  background: url('https://static.pexels.com/photos/227691/pexels-photo-227691.jpeg');
+  background: url("https://static.pexels.com/photos/227691/pexels-photo-227691.jpeg");
   /*what does background-size: cover do?*/
   background-size: cover;
 }
 
 .middle {
-  background: url('https://static.pexels.com/photos/227691/pexels-photo-227691.jpeg');
+  background: url("https://static.pexels.com/photos/227691/pexels-photo-227691.jpeg");
   background-size: cover;
   }
 
   .bottom {
-  background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg');
+  background-image: url("https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg");
   background-size: cover;
 }
