@@ -9,13 +9,13 @@ h1.webtitle {
      padding-top: 200px
      }
 
-.top {
+#top {
   background: url('https://static.pexels.com/photos/173910/pexels-photo-173910.jpeg');
   /*what does background-size: cover do?*/
   background-size: cover;
   }
 
-.middle {
+#middle {
   background: url('https://static.pexels.com/photos/1029/landscape-mountains-nature-clouds.jpg');
   background-size: cover;
   }
