@@ -25,6 +25,10 @@ section {
   background: cover; 
 }
 
+form {
+  padding: 1em 0 2em;
+}
+
 img {
   max-width: 100%;
 }
