@@ -48,3 +48,7 @@ h2 img{
 footer{
   text-align:center;
 }
+
+img{
+  display: none;
+}
