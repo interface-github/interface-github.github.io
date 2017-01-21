@@ -78,7 +78,7 @@ button{
 P {
     background: rgba((255,255,255,0.5);
         }
-@media screen and (min-width:480px) {
+@media screen and (max-width:480px) {
     body {
         background-color: lightgreen;
     }
