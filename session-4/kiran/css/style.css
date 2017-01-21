@@ -10,13 +10,11 @@
 }
 
 #middle {
-  background: url('https://static.pexels.com/photos/298366/pexels-photo-298366.jpeg');
-  background-size: cover;
+   background-size: cover;
 }
 
   #bottom {
-  background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg');
-  background: cover;
+   background: cover;
 }
 
 .img {
