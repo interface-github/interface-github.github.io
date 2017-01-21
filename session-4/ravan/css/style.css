@@ -5,6 +5,11 @@ section {
   text-align: center;
 }
 
+img {
+  width: 300px;
+  height: 200px;
+}
+
 '.top' {
   background: url('https://static.pexels.com/photos/36487/above-adventure-aerial-air.jpg');
   /*what does background-size: cover do?*/
