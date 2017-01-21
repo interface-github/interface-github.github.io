@@ -5,7 +5,7 @@ section {
   text-align: center;
 }
 
-#top {
+body {
    background: url('https://static.pexels.com/photos/2154/sky-lights-space-dark.jpg');
   /*what does background-size: cover do?*/
   background-size: cover; 
