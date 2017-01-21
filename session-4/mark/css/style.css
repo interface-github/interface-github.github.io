@@ -20,3 +20,16 @@ section {
   background: url('https://static.pexels.com/photos/196464/pexels-photo-196464.jpeg');
   background-size: cover;
 }
+
+@media screen and (min-width:480px) {
+	    body {
+	        background-color: lightgreen;
+	    }
+	    header{
+	        background: yellow;
+	    }
+	    img{
+	        border-radius:200px
+	    }
+	}
+
