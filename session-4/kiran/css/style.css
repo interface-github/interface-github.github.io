@@ -20,7 +20,7 @@ section {
    background: cover;
 }
 
-.item img {
+#middle img, #bottom img {
   width:150px;
   height:150px;
   }
