@@ -36,3 +36,16 @@ article {
     padding: 1em;
     overflow: hidden;
 }
+
+@media screen and (min-width: 480px) {
+	body {
+    	background-color: lightgreen;
+    }
+    header {
+        background: yellow;
+    }
+    img {
+        border-radius: 200px;
+    }
+   
+}
