@@ -5,7 +5,7 @@ section {
   text-align: center;
 }
 
-#top {
+body {
   background: url("https://static.pexels.com/photos/2336/trees-grass-lawn-park.jpg");
     background-size: cover;
 }
