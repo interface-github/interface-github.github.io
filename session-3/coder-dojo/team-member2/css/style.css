@@ -81,3 +81,7 @@ img, h1 {
         border-radius: 200px;
     }
 }
+
+h1 p {
+    font-color: white;
+}
