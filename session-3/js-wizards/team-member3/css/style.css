@@ -127,3 +127,9 @@ img.parrot {
         max-width: 80%;
     }
 }
+
+@media screen and (min-width: 720px) {
+    body {
+        max-width: 50%;
+    }
+}
