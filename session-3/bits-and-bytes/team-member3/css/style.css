@@ -28,10 +28,11 @@ header {
 }
 
 nav, footer {
-    background-color: FloralWhite;
+    background-color: White;
 }
 
 nav {
+    
     float: left;
     max-width: 160px;
     margin: 0px;
