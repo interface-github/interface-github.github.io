@@ -1,22 +1,27 @@
 section {
-  height: 700px;
+  height: 1000px;
   color: red;
   padding-top: 100px;
   text-align: center;
 }
 
-.top {
+#top {
   background: url('https://static.pexels.com/photos/2154/sky-lights-space-dark.jpg');
   /*what does background-size: cover do?*/
   background-size: cover;
 }
 
-middle {
-  background: url('https://static.pexels.com/photos/87650/galaxy-barred-spiral-galaxy-eridanus-constellation-starry-sky-87650.jpeg')
+#middle {
+  background: url('https://static.pexels.com/photos/87650/galaxy-barred-spiral-galaxy-eridanus-constellation-starry-sky-87650.jpeg');
   background-size: cover;
 }
 
-  .bottom {
-  background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg'):
+#bottom {
+  background: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg');
   background: cover;
+}
+
+img {
+  height: 200px;
+  width: 200px;
 }
