@@ -75,9 +75,6 @@ button{
     background-color: rgba(0,0,255,0.5);
 }
 
-p {
-    background: rgba((255,255,255,0.5);
-        }
 @media screen and (max-width:480px) {
     body {
         background-color: lightgreen;
