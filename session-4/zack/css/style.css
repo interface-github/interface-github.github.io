@@ -9,6 +9,7 @@ h1 img{
   width:100px;
 }
 #top {
+  padding-top:200px;
   background: url("https://static.pexels.com/photos/227691/pexels-photo-227691.jpeg");
   /*what does background-size: cover do?*/
   background-size: cover;
