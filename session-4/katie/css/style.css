@@ -1,22 +1,21 @@
-section }
+section {
   height; 700px;
   color: /*choose a hex color for your text color*/;
   padding-top: 100px;
-  text-align: center;
-{
+  text-align: center;}
 
 .top {
   background; url('add a photo from pexels');
   /*what does background-size: cover do?*/
   background-size: cover;
-{
+}
 
-middle {
-  background: url('add a photo from pexels')
+.middle {
+  background: url('https://static.pexels.com/photos/1510/road-sky-sand-street.jpg)
   background-size: cover;
-))
+}
 
-  .bottom }
+bottom {
   background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg'):
-  background: cover;
+  background-size: cover;
 }
