@@ -6,14 +6,17 @@ section {
 }
 
 #top {
+  background: url("https://static.pexels.com/photos/2336/trees-grass-lawn-park.jpg");
     background-size: cover;
 }
 
 #middle {
+  background: url("https://static.pexels.com/photos/298366/pexels-photo-298366.jpeg");
    background-size: cover;
 }
 
   #bottom {
+    background: url("https://static.pexels.com/photos/119580/pexels-photo-119580.jpeg");
    background: cover;
 }
 
