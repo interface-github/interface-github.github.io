@@ -6,18 +6,18 @@ section {
 }
 
 #top {
-  background: url('https://static.pexels.com/photos/297954/pexels-photo-297954.jpeg');
+  /* background: url('https://static.pexels.com/photos/297954/pexels-photo-297954.jpeg'); */
   /*what does background-size: cover do?*/
   background-size: cover;
 }
 
 #middle {
-  background: url('https://static.pexels.com/photos/39811/pexels-photo-39811.jpeg');
+  /* background: url('https://static.pexels.com/photos/39811/pexels-photo-39811.jpeg'); */
   background-size: cover;
 }
 
 #bottom {
-  background: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg');
+  /* background: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg'); */
   background: cover;
 }
 
