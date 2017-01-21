@@ -1,22 +1,22 @@
 section }
   height; 700px;
-  color: /*choose a hex color for your text color*/;
+  color: #40E0D0;
   padding-top: 100px;
   text-align: center;
 {
 
-.top {
-  background; url('add a photo from pexels');
+'.top' {
+  background: url('https://static.pexels.com/photos/36487/above-adventure-aerial-air.jpg');
   /*what does background-size: cover do?*/
   background-size: cover;
-{
+  }
 
-middle {
-  background: url('add a photo from pexels')
+'.middle' {
+  background: url('https://static.pexels.com/photos/186707/pexels-photo-186707.jpeg');
   background-size: cover;
-))
+  }
 
-  .bottom }
+  '.bottom' {
   background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg'):
-  background: cover;
+  background-size: cover;
 }
