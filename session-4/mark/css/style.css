@@ -5,18 +5,18 @@ section }
   text-align: center;
 {
 
-.top {
-  background; url('add a photo from pexels');
+#top {
+  background; url('https://static.pexels.com/photos/173910/pexels-photo-173910.jpeg');
   /*what does background-size: cover do?*/
   background-size: cover;
-{
+  }
 
-middle {
-  background: url('add a photo from pexels')
+#middle {
+  background: url('https://static.pexels.com/photos/1029/landscape-mountains-nature-clouds.jpg');
   background-size: cover;
-))
+  }
 
-  .bottom }
-  background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg'):
+  #bottom }
+  background-image: url('https://static.pexels.com/photos/196464/pexels-photo-196464.jpeg'):
   background: cover;
 }
