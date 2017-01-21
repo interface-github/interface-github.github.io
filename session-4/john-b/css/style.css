@@ -36,3 +36,8 @@ img {
 .fade-js {
   display: none;
 }
+
+footer {
+  background: #a4a9b2;
+  padding: 1em 0;
+}
