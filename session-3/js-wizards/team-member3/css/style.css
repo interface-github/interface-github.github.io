@@ -5,131 +5,134 @@ html {
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
-    max-width: 60%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
-header {
-    background: #45CCFF;
-    padding: 1em;
-}
+/* ---- Screen size > 720px ---- */
+@media screen and (min-width: 720px) {
 
-footer {
-    background: #49E83E;
-    padding: .5em;
-}
+    body {
+        font-family: 'Roboto Condensed', sans-serif;
+        max-width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
-footer a {
-    color: white;
-}
+    header {
+        background: #45CCFF;
+        padding: 1em;
+    }
 
-footer a:link {
-    text-decoration: none;
-}
+    footer {
+        background: #49E83E;
+        padding: .5em;
+    }
 
-footer a:hover {
-    color: #E84B30;
-}
+    footer a {
+        color: white;
+    }
 
-header, footer {
-    text-align: center;
-    color: white;
-    clear: left;
-}
+    footer a:link {
+        text-decoration: none;
+    }
 
-header.header-color {
-    background-color: #49E83E;
-}
+    footer a:hover {
+        color: #E84B30;
+    }
 
-/* ---- Horizontal Nav ---- */
-nav ul {
-    text-align:center;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #E84B30;
-}
+    header, footer {
+        text-align: center;
+        color: white;
+        clear: left;
+    }
 
-nav li {
-    display:inline;
-}
+    header.header-color {
+        background-color: #49E83E;
+    }
 
-nav li a {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
+    /* ---- Horizontal Nav ---- */
+    nav ul {
+        text-align:center;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #E84B30;
+    }
 
-nav li a:hover {
-    background-color: #B243FF;
-}
+    nav li {
+        display:inline;
+    }
 
-/* ---- Content ----*/
-div.container {
-    background: #FFD432;
-    color: white;
-    text-align: center;
-    padding: .5em;
-}
+    nav li a {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
 
-div.content {
-    padding: 1em 3em;
-}
+    nav li a:hover {
+        background-color: #B243FF;
+    }
 
-#cat {
-    max-width: 70%;
-    padding: 1em 0;
-    margin-left: auto;
-    margin-right: auto;
-}
+    /* ---- Content ----*/
+    div.container {
+        background: #FFD432;
+        color: white;
+        text-align: center;
+        padding: .5em;
+    }
 
-button {
-    background-color: blue;
-    color: white;
-}
+    div.content {
+        padding: 1em 3em;
+    }
 
-/* ---- Favorite list styling ---- */
-#favorite-list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
+    #cat {
+        max-width: 70%;
+        padding: 1em 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
-#favorite-list li a {
-    text-decoration: none;
-}
+    button {
+        background-color: blue;
+        color: white;
+    }
 
-#favorite-list li a:hover {
-    background-color: #B243FF;
-}
+    /* ---- Favorite list styling ---- */
+    #favorite-list {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
 
-#favorite-list li a:visited {
-    color: white;
-}
+    #favorite-list li a {
+        text-decoration: none;
+    }
 
-/* ---- Hide img / h1 for jQuery fade ---- */
-h1, img {
-    display: none;
-}
+    #favorite-list li a:hover {
+        background-color: #B243FF;
+    }
 
-img.parrot {
-    display: inline;
+    #favorite-list li a:visited {
+        color: white;
+    }
+
+    /* ---- Hide img / h1 for jQuery fade ---- */
+    h1, img {
+        display: none;
+    }
+
+    img.parrot {
+        display: inline;
+    }
+    
 }
 
 /* ---- Media Query (480px) ---- */
 @media screen and (min-width: 480px) {
     body {
         max-width: 80%;
-    }
-}
-
-@media screen and (min-width: 720px) {
-    body {
-        max-width: 50%;
     }
 }
