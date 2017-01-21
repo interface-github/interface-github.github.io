@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $("img,h1,marquee").fadeIn(500);
+  $("img,h1,marquee").fadeIn(5000);
 });
