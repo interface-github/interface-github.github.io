@@ -1,5 +1,6 @@
 section {
   height: 800px;
+  padding-top: 150px;
 }
 
 #about {
@@ -8,7 +9,9 @@ section {
   
 #contact {
   background: pink;
+  padding: 30px;
   }
+
 
 #about img {
   border-radius: 200px;
