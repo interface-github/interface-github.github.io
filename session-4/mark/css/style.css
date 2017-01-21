@@ -1,12 +1,12 @@
 section {
-  height; 700px;
-  color: /*choose a hex color for your text color*/;
+  height: 700px;
+  color: #4286f4;/*choose a hex color for your text color*/;
   padding-top: 100px;
   text-align: center;
 }
 
 #top {
-  background; url('https://static.pexels.com/photos/173910/pexels-photo-173910.jpeg');
+  background: url('https://static.pexels.com/photos/173910/pexels-photo-173910.jpeg');
   /*what does background-size: cover do?*/
   background-size: cover;
   }
@@ -17,6 +17,6 @@ section {
   }
 
   #bottom {
-  background-image: url('https://static.pexels.com/photos/196464/pexels-photo-196464.jpeg'):
+  background-image: url('https://static.pexels.com/photos/196464/pexels-photo-196464.jpeg');
   background: cover;
 }
