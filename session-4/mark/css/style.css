@@ -1,6 +1,6 @@
 section {
   height: 700px;
-  color: #4286f4;/*choose a hex color for your text color*/;
+  color: #eaeff7;/*choose a hex color for your text color*/;
   padding-top: 100px;
   text-align: center;
 }
@@ -32,4 +32,17 @@ section {
 	        border-radius:200px
 	    }
 	}
+
+h1:hover {
+  color: blue;
+  }
+
+h2:hover {
+  color: orange;
+  }
+
+h3:hover {
+  color: red;
+  }
+
 
