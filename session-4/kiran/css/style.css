@@ -1,4 +1,4 @@
-.section {
+section {
   height:700px;
   color: gray;
   padding-top: 100px;
@@ -17,7 +17,7 @@
    background: cover;
 }
 
-.img {
-  width=150px;
-  height=150px;
+img {
+  width:150px;
+  height:150px;
   }
