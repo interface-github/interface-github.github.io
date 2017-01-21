@@ -4,7 +4,11 @@ section {
   padding-top: 100px;
   text-align: center;
 }
-
+img{
+  height:200px;
+  width:200px;
+  border-radius:200px
+}
 .top {
   background: url("https://static.pexels.com/photos/227691/pexels-photo-227691.jpeg");
   /*what does background-size: cover do?*/
