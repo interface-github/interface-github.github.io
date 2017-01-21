@@ -1,4 +1,4 @@
-section {
+.section {
   height:700px;
   color: gray;
   padding-top: 100px;
@@ -10,7 +10,7 @@ section {
   background-size: cover;
 }
 
-middle {
+.middle {
   background: url('https://static.pexels.com/photos/298366/pexels-photo-298366.jpeg');
   background-size: cover;
 }
@@ -20,7 +20,7 @@ middle {
   background: cover;
 }
 
-img {
+.img {
   width=150px;
   height=150px;
   }
