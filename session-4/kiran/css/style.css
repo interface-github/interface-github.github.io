@@ -20,3 +20,7 @@ middle {
   background-image: url('https://static.pexels.com/photos/287229/pexels-photo-287229.jpeg'):
   background: cover;
 }
+img {
+  width=150px;
+  height=150px;
+  }
