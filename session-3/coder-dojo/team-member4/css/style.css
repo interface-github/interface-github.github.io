@@ -50,7 +50,7 @@ body{
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/57/95/80/579580e3806dc333769e143a04e2d765.jpg");
     
 }
-#p1,#p2,#p3{
+#p1 #p2 #p3{
     color:white
 }
 #p1{
@@ -75,7 +75,7 @@ button{
     background-color: rgba(0,0,255,0.5);
 }
 
-P {
+p {
     background: rgba((255,255,255,0.5);
         }
 @media screen and (max-width:480px) {
