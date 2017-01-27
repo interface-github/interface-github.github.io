@@ -22,4 +22,8 @@ a:hover {
 	background:green;
 }
 	
+body {
+	background:url('http://i.kinja-img.com/gawker-media/image/upload/t_original/1494253610982910793.jpg');
+	background-size:cover;
+}
 
