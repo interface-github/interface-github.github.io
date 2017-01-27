@@ -3,6 +3,7 @@ selector {
 	property: value;
 }
 */
-img {height:10em; 
+img {
+	height:10em; 
 	width:10em;
 }
