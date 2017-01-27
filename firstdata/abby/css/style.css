@@ -14,3 +14,7 @@ h1{
 img:hover{
 	border-radius:10em;
 }
+a:hover{
+	color:blue;
+	background: yellow;
+}
