@@ -12,13 +12,13 @@ h1 {
 	color:red;
 }
 img: hover {
-	border-radius: 10em;
+	border-radius:10em;
 }
 a: hover {
-	color: blue;
-	background: pink;
+	color:blue;
+	background:pink;
 }
 body {
-	background: url ('https://static.pexels.com/photos/225983/pexels-photo-225983.jpeg');
-	background-size: cover;
+	background:url('https://static.pexels.com/photos/225983/pexels-photo-225983.jpeg');
+	background-size:cover;
 }
