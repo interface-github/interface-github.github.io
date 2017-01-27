@@ -4,8 +4,7 @@ selector {
 }
 */
 img{
-	height:10em;
-	width:10em;
+	border-radius:15em;
 }
 h1{
 	font-size:4em;
@@ -13,4 +12,8 @@ h1{
 }
 img:hover{
 	border-radius:10em;
+}
+a:hover{
+	color:white;
+	background:black;
 }
