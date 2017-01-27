@@ -18,3 +18,7 @@ a:hover{
 	color:blue;
 	background: yellow;
 }
+body{
+	background:url(https://static.pexels.com/photos/2988/pattern-triangles.jpg);
+	background-size:cover;
+}
