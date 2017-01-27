@@ -9,7 +9,7 @@ img{
 }
 h1{
 	font-size:4em;
-	color:red;
+	color:white;
 }
 img:hover{
 	border-radius:10em;
@@ -19,6 +19,6 @@ a:hover{
 	background: yellow;
 }
 body{
-	background:url(https://static.pexels.com/photos/2988/pattern-triangles.jpg);
+	background:url(https://static.pexels.com/photos/126590/pexels-photo-126590.jpeg);
 	background-size:cover;
 }
