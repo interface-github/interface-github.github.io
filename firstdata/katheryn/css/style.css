@@ -4,16 +4,20 @@ selector {
 }
 */
 img{
-	border-radius:12em;
+	border-radius:10em;
 }
 h1{
 	font-size:4em;
 	color:maroon;
 }
 img:hover{
-	border-radius:10em;
+	border-radius:8em;
 }
 a:hover{
 	color:white;
 	background:black;
+}
+body{
+	background:url("https://static.pexels.com/photos/52500/horse-herd-fog-nature-52500.jpeg");
+	background-size:cover;
 }
