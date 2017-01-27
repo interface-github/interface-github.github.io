@@ -6,12 +6,15 @@ selector {
 img{
 	height:10em;
 	width:10em;
+	border-radius:10em;
 }
 h1{
 	font-size:4em;
 	color:maroon;
 }
 img:hover{
+	height:12em;
+	width:12em;
 	border-radius:12em;
 }
 a:hover{
