@@ -21,3 +21,7 @@ a:hover
 	color:yellow;
 	background: green;
 }
+body {
+	background:url('https://static.pexels.com/photos/199682/pexels-photo-199682.jpeg');
+	background-size:cover;
+}
