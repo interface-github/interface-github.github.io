@@ -11,3 +11,6 @@ h1{
 	font-size:4em;
 	color:red;
 }
+img:hover{
+	border-radius:10em;
+}
