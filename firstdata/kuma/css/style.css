@@ -16,9 +16,8 @@ img:hover{
 }
 a:hover{
 	color:blue;
-	background: yellow;
 }
 body{
-	background:url(https://static.pexels.com/photos/126590/pexels-photo-126590.jpeg);
+	background:url(https://images.pexels.com/photos/34153/pexels-photo.jpg);
 	background-size:cover;
 }
