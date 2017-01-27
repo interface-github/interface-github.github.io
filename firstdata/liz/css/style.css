@@ -14,3 +14,7 @@ h1 {
 img: hover {
 	border radius: 10emj
 }
+a: hover {
+	color: blue;
+	background: pink;
+}
