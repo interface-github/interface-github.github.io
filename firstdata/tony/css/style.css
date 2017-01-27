@@ -12,3 +12,7 @@ h1 {
 	font-size:4em;
 	color:blue;
 }
+img:hover 
+{
+border-radius:10em;	
+}
