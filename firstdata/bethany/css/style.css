@@ -5,6 +5,7 @@ selector {
 */
 img {
 	height: 10em;
+	width: 10em;
 }
 h1 {
 	font-size:4em;
@@ -12,4 +13,8 @@ h1 {
 		}
 img:hover {
 		border-radius:10em;
-		}		
+		}
+body {
+	background:url("https://static.pexels.com/photos/65310/pexels-photo-65310.jpeg");
+	background-size:cover;
+}
