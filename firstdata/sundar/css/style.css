@@ -6,10 +6,14 @@ selector {
 img {
 	height:10em;
 	width:10em;
-    }
+  }
 
 h1 {
 	font-size:4em;
 	color:red;
+}
+
+img:hover {
+	border-radius:10em;
 }
 
