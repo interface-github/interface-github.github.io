@@ -30,6 +30,7 @@ nav {
 }
 
 nav ul {
+    float:right;
     list-style-type: none;
     padding: 0;
 }
