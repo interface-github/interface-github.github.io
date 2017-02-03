@@ -1,3 +1,7 @@
+body{
+    background:url("https://static.pexels.com/photos/48728/pexels-photo-48728.jpeg");
+}
+
 /*INSTRUCTIONS:
 1. Customize colors throughout the CSS document
 2. Add an image selector and update the size and border-radius
@@ -11,9 +15,7 @@
 
 /*what is the difference between using a comma between selectors vs. a space or >? 
 */
-body{
-    background:url("https://static.pexels.com/photos/48728/pexels-photo-48728.jpeg");
-}
+
 header, footer {
     padding: 1em;
     color: black;
@@ -28,12 +30,13 @@ vav a:hover{
 }
 
 img{
+    height:200px;
+    width:200px;
     border-radius:200px;
 }
 
 img:hover{
-    height:200px;
-    width:200px;
+    border-radius:0px;
 }
 
 nav {
