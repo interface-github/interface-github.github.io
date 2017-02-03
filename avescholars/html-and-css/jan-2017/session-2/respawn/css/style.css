@@ -27,6 +27,11 @@ vav a:hover{
     background: #aff720;
 }
 
+img{
+    height:200px;
+    width:200px;
+}
+
 nav {
     float: left;
     max-width: 160px;
