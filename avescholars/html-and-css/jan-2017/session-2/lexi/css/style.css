@@ -35,6 +35,7 @@ nav a:hover {
 img {
     height: 200px;
     width: 200px;
+    display:none;
 }
 
 img:hover {border-radius: 200px;
