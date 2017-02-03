@@ -32,6 +32,7 @@ header, footer {
 img {
     height: 200px;
     width: 200px;
+    display: none;
 }
 
 img a:hover {
