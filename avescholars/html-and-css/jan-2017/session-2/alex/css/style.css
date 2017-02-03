@@ -31,6 +31,10 @@ img {
     width: 200px;
 }
 
+img a:hover {
+    border-radius: 200px;   
+}
+
 nav a:hover {
     background: white;
 }
