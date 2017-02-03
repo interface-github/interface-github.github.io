@@ -13,11 +13,26 @@
 */
 header, footer {
     padding: 1em;
-    color: white;
+    color: #00ff00;
     background-color: black;
     clear: left;
     text-align: center;
+    font-style: italic;
 }
+nav a:hover{
+    background: blue; 
+} 
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+
+img:hover{
+    border-radius: 200px;
+}
+
 
 nav {
     float: left;
