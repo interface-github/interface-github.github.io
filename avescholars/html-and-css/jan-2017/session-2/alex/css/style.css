@@ -12,12 +12,14 @@ body {
 
 .container {
     width: 100%;
+    margin: 0px 0px 0px 0px;
 }
 
 /*what is the difference between using a comma between selectors vs. a space or >? 
 */
 header, footer {
     width: 100%;
+    margin: 0px 0px 0px 0px;
     color: white;
     background-color: black;
     text-align: center;
