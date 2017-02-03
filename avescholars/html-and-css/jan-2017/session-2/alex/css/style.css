@@ -13,7 +13,7 @@
 /*what is the difference between using a comma between selectors vs. a space or >? 
 */
 header, footer {
-    padding: 1em;
+    width: 100%;
     color: white;
     background-color: black;
     clear: left;
