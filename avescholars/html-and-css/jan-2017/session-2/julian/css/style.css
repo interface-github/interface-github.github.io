@@ -17,9 +17,12 @@ header, footer {
     background-color:#DED321 ;
     clear: left;
     text-align: center;
+    Font-style: italic;
 }
 
-nav {
+nav  a:hover {
+  
+        
     float: left;
     max-width: 160px;
     margin: 0;
