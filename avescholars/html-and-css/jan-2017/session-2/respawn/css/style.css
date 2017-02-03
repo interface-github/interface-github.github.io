@@ -32,6 +32,10 @@ img{
     width:200px;
 }
 
+img:hover{
+    border-radius:200px;
+}
+
 nav {
     float: left;
     max-width: 160px;
