@@ -11,9 +11,7 @@ body {
 }
 
 .container {
-    width: 80%;
-    border: 0px;
-    margin: 0% 10% 0% 10%;
+    width: 100%;
 }
 
 /*what is the difference between using a comma between selectors vs. a space or >? 
