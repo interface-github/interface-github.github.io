@@ -17,6 +17,7 @@ header, footer {
     background-color: black;
     clear: left;
     text-align: center;
+    font-style: italic;
 }
 
 nav {
@@ -25,7 +26,16 @@ nav {
     margin: 0;
     padding: 1em;
 }
+nav a:hover {
+    background:pink;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
 
+img:hover {border-radius: 200px;
+}
 nav ul {
     list-style-type: none;
     padding: 0;
