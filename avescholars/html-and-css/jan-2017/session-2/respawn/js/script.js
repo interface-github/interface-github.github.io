@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('img').fadeOut(5000);
+  $('img').fadeIn(5000);
 });
