@@ -11,16 +11,19 @@
 
 /*what is the difference between using a comma between selectors vs. a space or >? 
 */
+body{
+    background:url("https://static.pexels.com/photos/48728/pexels-photo-48728.jpeg");
+}
 header, footer {
     padding: 1em;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: #ff9838;
     clear: left;
     text-align: center;
 }
 
 nav {
-    float: left;
+    float: right;
     max-width: 160px;
     margin: 0;
     padding: 1em;
