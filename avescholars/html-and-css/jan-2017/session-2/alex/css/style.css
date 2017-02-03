@@ -45,6 +45,7 @@ nav a:hover {
 }
 
 nav {
+    width: 100%;
     display: inline;
     margin: 0 0 0 0;
     background-color: grey;
