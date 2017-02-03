@@ -1,9 +1,61 @@
-body{
- background: url("https://static.pexels.com/photos/5340/red-blue-bricks-pattern.jpg");
-    background-size: cover;
+body {
+  background:url('https://static.pexels.com/photos/24377/pexels-photo-24377.jpg');
+}
+
+/*why do we need to prepend the container class with a dot*/
+.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+/*what is the difference between using a comma between selectors vs. a space or >? */
+header, footer {
+    padding: 1em;
+    color: #cc66ff;
+    background-color: black;
+    clear: left;
+    text-align: center;
+    font-style: italic;
+}
+
+nav a:hover {
+ background: pink;
 }
 
 img {
- height: 10em; 
- width: 10em;
+ height: 200px;
+ width: 200px;
+} 
+
+img:hover {
+ border-radius: 200px;
+}
+ 
+
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+#green-paragraph {
+    /*enter property and value pairs here to style this paragraph*/
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
 }
