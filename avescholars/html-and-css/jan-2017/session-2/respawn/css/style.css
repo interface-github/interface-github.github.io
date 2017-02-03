@@ -20,6 +20,11 @@ header, footer {
     background-color: #ff9838;
     clear: left;
     text-align: center;
+    font-style:bold;
+}
+
+vav a:hover{
+    background: #aff720;
 }
 
 nav {
