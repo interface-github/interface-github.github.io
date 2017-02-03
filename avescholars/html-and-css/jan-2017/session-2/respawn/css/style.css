@@ -28,12 +28,12 @@ vav a:hover{
 }
 
 img{
-    height:200px;
-    width:200px;
+    border-radius:200px;
 }
 
 img:hover{
-    border-radius:200px;
+    height:200px;
+    width:200px;
 }
 
 nav {
