@@ -4,6 +4,12 @@
 */
 
 /*why do we need to prepend the container class with a dot*/
+body {
+    width: 100%;
+    background: url("https://static.pexels.com/photos/220166/pexels-photo-220166.jpeg");
+    background-repeat: repeat-y;
+}
+
 .container {
     width: 100%;
     border: 0px;
