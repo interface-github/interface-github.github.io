@@ -48,10 +48,10 @@ nav ul a {
 }
 
 article {
-    margin-left: 170px;
+    margin: 0% 10% 0% 10%;
     border: 0px solid gray;
-    background-color: #00000000;
-    padding: 1em;
+    background-color: white;
+    padding: 0em;
     overflow: hidden;
-    box-shadow: 1em 1em #99999999;
+    box-shadow: 0em 1em 1em 0em black;
 }
