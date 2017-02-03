@@ -29,10 +29,8 @@ header, footer {
 }
 
 nav {
-    float: left;
-    max-width: 160px;
-    margin: 0;
-    padding: 1em;
+    margin: 0 0 0 0;
+    background-color: grey;
 }
 
 nav ul {
