@@ -18,6 +18,9 @@ header, footer {
     clear: left;
     text-align: center;
 }
+nav a:hover {
+    background: blue;
+}
 
 nav {
     float: left;
