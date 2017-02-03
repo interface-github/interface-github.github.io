@@ -8,6 +8,7 @@ body {
     width: 100%;
     background: url("https://static.pexels.com/photos/220166/pexels-photo-220166.jpeg");
     background-repeat: repeat-y;
+    background-size: 100%;
 }
 
 .container {
