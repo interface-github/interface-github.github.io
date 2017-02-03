@@ -1,5 +1,6 @@
 body{
    background:url(' https://static.pexels.com/photos/8504/wood-explosion-fire-hot.jpg'); 
+color:white
 }
 /*INSTRUCTIONS:
 1. Customize colors throughout the CSS document
@@ -21,6 +22,7 @@ header, footer {
     clear: left;
     text-align: center;
     font-style: italic;
+   
 }
 nav a:hover{
     background: blue; 
