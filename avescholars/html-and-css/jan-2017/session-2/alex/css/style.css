@@ -5,10 +5,10 @@
 
 /*why do we need to prepend the container class with a dot*/
 body {
-    width: 100%;
+    width: flex;
     background: url("https://static.pexels.com/photos/220166/pexels-photo-220166.jpeg");
     background-repeat: repeat-y;
-    max-width: 100%;
+    max-width: 80%;
 }
 
 .container {
@@ -32,6 +32,7 @@ nav a:hover {
 }
 
 nav {
+    display: inline;
     margin: 0 0 0 0;
     background-color: grey;
 }
