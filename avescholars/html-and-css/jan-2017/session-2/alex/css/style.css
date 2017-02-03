@@ -5,8 +5,9 @@
 
 /*why do we need to prepend the container class with a dot*/
 .container {
-    width: 100%;
-    border: 1px solid gray;
+    width: 80%;
+    border: 0px;
+    
 }
 
 /*what is the difference between using a comma between selectors vs. a space or >? 
@@ -17,6 +18,7 @@ header, footer {
     background-color: black;
     clear: left;
     text-align: center;
+    text-shadow: 1em;
 }
 
 nav {
