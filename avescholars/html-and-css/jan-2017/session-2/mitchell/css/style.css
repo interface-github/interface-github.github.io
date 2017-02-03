@@ -14,11 +14,22 @@
 header, footer {
     padding: 1em;
     color:#DFB043;
-    background-color: black;
+    background-color:#EFAD14;
     clear: left;
     text-align: center;
 }
 
+nav a:hover {
+background:#C89520
+}
+
+img {
+    height: 200px;
+width: 200pz;
+}
+img:hover {
+border-radius: 200px;
+}
 nav {
     float: left;
     max-width: 160px;
