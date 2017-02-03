@@ -8,7 +8,7 @@ body {
     width: 100%;
     background: url("https://static.pexels.com/photos/220166/pexels-photo-220166.jpeg");
     background-repeat: repeat-y;
-    background-size: 100%;
+    max-width: 100%;
 }
 
 .container {
@@ -23,9 +23,12 @@ header, footer {
     width: 100%;
     color: white;
     background-color: black;
-    clear: left;
     text-align: center;
-    text-shadow: 1em;
+    text-shadow: 0em 1em 1em 0em;
+}
+
+nav a:hover {
+    background: white;
 }
 
 nav {
