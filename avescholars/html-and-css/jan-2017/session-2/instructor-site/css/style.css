@@ -2,3 +2,8 @@ body{
  background: url("https://static.pexels.com/photos/5340/red-blue-bricks-pattern.jpg");
     background-size: cover;
 }
+
+img {
+ height: 10em; 
+ width: 10em;
+}
