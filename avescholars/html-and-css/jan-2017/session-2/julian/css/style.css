@@ -13,8 +13,8 @@
 */
 header, footer {
     padding: 1em;
-    color: white;
-    background-color: black;
+    color:#FF5733 ;
+    background-color:#DED321 ;
     clear: left;
     text-align: center;
 }
