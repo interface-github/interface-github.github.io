@@ -48,3 +48,7 @@ article {
     padding: 1em;
     overflow: hidden;
 }
+    
+    h1, p, img {
+     display: none   
+    }
