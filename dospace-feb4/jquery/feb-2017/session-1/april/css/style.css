@@ -13,8 +13,8 @@
 */
 header, footer {
     padding: 1em;
-    color: white;
-    background-color: black;
+    color: #e6f3ff;
+    background-color: #001a33;
     clear: left;
     text-align: center;
 }
@@ -36,7 +36,7 @@ nav ul a {
 }
 
 #green-paragraph {
-    /*enter property and value pairs here to style this paragraph*/
+    color: blue;
 }
 
 article {
