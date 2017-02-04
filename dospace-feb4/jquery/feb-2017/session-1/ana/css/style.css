@@ -40,7 +40,8 @@ nav ul a {
 }
 
 #blue-paragraph {
-    color:blue
+    color:blue;
+    font-style:italic;
 }
 
 article {
