@@ -6,4 +6,5 @@ $(document).ready(function(){
   $("header, footer:).click(function(){
   $(this).css("background-color", "yellow);
   });
+  
 });
