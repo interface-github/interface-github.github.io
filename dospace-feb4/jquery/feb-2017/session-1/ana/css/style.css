@@ -14,7 +14,7 @@
 header, footer {
     padding: 1em;
     color: white;
-    background-color: black;
+    background-color: #0000b3;
     clear: left;
     text-align: center;
 }
@@ -24,6 +24,10 @@ nav {
     max-width: 160px;
     margin: 0;
     padding: 1em;
+}
+
+a:holver {
+    background-color:grey   
 }
 
 nav ul {
