@@ -48,6 +48,11 @@ h1, p, img {
     display: none;
 }
 
+img {
+    height: 15em;
+    width: 15em;
+}
+
 article {
     margin-left: 170px;
     border-left: 1px solid gray;
