@@ -14,7 +14,7 @@
 header, footer {
     padding: 1em;
     color:teal;
-    background-color:light purple;
+    background-color: purple;
     clear: left;
     text-align: center;
 }
@@ -29,12 +29,14 @@ nav {
 nav ul {
     list-style-type: none;
     padding: 0;
-} a:hover{
-    background-color:teal
+}
+a:hover{
+    background-color:teal;
+}
    
 nav ul a {
     text-decoration: none;
-
+    }
     
 
 #green-paragraph {
@@ -47,9 +49,16 @@ article {
     padding: 1em;
     overflow: hidden;
 }
+
+h1,p,img{
+  display:none;  
+}
+
+
+img{
+    height:15em;
+    width:15em;
     
+}
+
     
-    
-  hi,p,img{
-   diplay:none;   
-    }
