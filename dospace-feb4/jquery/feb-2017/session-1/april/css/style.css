@@ -35,6 +35,9 @@ nav ul a {
     text-decoration: none;
 }
 
+a:{
+    color: yellow;
+}
 #green-paragraph {
     color: blue;
 }
@@ -44,4 +47,8 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
+}
+
+h1, p {
+    display: none;
 }
