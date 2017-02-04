@@ -7,8 +7,8 @@
 /*what is the difference between using a comma between selectors vs. a space or >? */
 header, footer {
     padding: 1em;
-    color: white;
-    background-color: black;
+    color: purple;
+    background-color: gray;
     clear: left;
     text-align: center;
 }
@@ -29,8 +29,12 @@ nav ul a {
     text-decoration: none;
 }
 
+a:hover {
+    background-color: yellow;
+}
+
 #green-paragraph {
-    /*enter property and value pairs here to style this paragraph*/
+    color: green;
 }
 
 article {
