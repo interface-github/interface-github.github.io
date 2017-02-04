@@ -13,7 +13,7 @@
 */
 header, footer {
     padding: 1em;
-    color: white;
+    color: #b3b3ff;
     background-color: #0000b3;
     clear: left;
     text-align: center;
@@ -27,7 +27,7 @@ nav {
 }
 
 a:hover {
-    background-color:grey   
+    background-color:grey;
 }
 
 nav ul {
