@@ -1,4 +1,4 @@
 $(document).ready(function(){
-  $("hi,p").fadeIn(5000);
+  $("h1,p").fadeIn(5000);
 
 });
