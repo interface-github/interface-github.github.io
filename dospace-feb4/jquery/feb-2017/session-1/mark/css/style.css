@@ -44,6 +44,10 @@ nav ul a {
 #green-paragraph {
     /*enter property and value pairs here to style this paragraph*/
 }
+h1, p {
+    display: none;
+}
+
 
 article {
     margin-left: 170px;
