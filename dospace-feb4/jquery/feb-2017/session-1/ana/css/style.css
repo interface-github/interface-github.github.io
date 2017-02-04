@@ -35,8 +35,8 @@ nav ul a {
     text-decoration: none;
 }
 
-#green-paragraph {
-    /*enter property and value pairs here to style this paragraph*/
+#blue-paragraph {
+    color:blue
 }
 
 article {
