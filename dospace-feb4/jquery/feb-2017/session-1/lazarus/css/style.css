@@ -49,3 +49,8 @@ article {
 h1,p, img{
     display:none;
 }
+
+img {
+    height:15em;
+    width:15em;
+}
