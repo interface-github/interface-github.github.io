@@ -44,7 +44,7 @@ nav ul a {
 #green-paragraph {
     /*enter property and value pairs here to style this paragraph*/
 }
-h1, p img {
+h1, p, img {
     display: none;
 }
 
