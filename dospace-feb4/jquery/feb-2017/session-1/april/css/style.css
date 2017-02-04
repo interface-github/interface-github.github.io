@@ -49,6 +49,6 @@ article {
     overflow: hidden;
 }
 
-h1, p {
+h1, p, img {
     display: none;
 }
