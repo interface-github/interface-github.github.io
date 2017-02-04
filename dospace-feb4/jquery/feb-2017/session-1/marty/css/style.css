@@ -14,7 +14,7 @@
 header, footer {
     padding: 1em;
     color: white;
-    background-color: black;
+    background-color: blue;
     clear: left;
     text-align: center;
 }
@@ -35,8 +35,13 @@ nav ul a {
     text-decoration: none;
 }
 
+a:hover {
+    background-color: green;
+}
+
 #green-paragraph {
     /*enter property and value pairs here to style this paragraph*/
+    color: green
 }
 
 article {
