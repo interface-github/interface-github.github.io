@@ -25,9 +25,9 @@ nav {
     margin: 0;
     padding: 1em;
 }
-a:hover (
+a:hover {
 background-color: yellow;
-)
+}
 
 
 
