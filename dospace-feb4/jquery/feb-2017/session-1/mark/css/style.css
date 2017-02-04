@@ -55,3 +55,8 @@ article {
     padding: 1em;
     overflow: hidden;
 }
+
+img {
+    height:15em;
+    width: 15em;
+}
