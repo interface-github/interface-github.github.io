@@ -4,7 +4,7 @@ $(document).ready(function(){
     $("img").fadeIn(5000);
   });
   $("header, footer:).click(function(){
-  $(this).css("background-color", "yellow);
+  $(this).css("background-color", "yellow");
   });
   
 });
