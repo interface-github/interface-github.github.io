@@ -5,6 +5,6 @@ $("button").click(function(){
   });
 $("header, footer".click(function(){
 $("header, footer").css("background-color","red");
-  $(header, footer).click(function(){
+ }); 
 });
  
