@@ -14,7 +14,7 @@
 header, footer {
     padding: 1em;
     color: #b3b3ff;
-    background-color: #0000b3;
+    background-color: #000066;
     clear: left;
     text-align: center;
 }
@@ -51,6 +51,6 @@ article {
 }
 
 
-h1, p{
+h1, p, img{
     display:none;   
 }
