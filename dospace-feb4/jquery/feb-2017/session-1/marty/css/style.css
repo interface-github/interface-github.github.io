@@ -44,6 +44,10 @@ a:hover {
     color: green
 }
 
+h1, p {
+    display: none;
+}
+
 article {
     margin-left: 170px;
     border-left: 1px solid gray;
