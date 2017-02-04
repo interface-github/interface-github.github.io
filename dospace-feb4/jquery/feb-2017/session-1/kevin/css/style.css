@@ -40,6 +40,11 @@ nav ul a {
           }
      
     
+    h1, p, img {
+        display: none;
+    }
+    
+    
     
     text-decoration: none;
 }
