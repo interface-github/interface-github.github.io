@@ -35,9 +35,7 @@ nav ul a {
     text-decoration: none;
 }
 
-a:{
-    color: yellow;
-}
+
 #green-paragraph {
     color: blue;
 }
@@ -51,4 +49,9 @@ article {
 
 h1, p, img {
     display: none;
+}
+
+img {
+    height: 15em;
+    width: 15em;
 }
