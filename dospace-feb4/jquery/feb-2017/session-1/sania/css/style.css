@@ -13,7 +13,7 @@
 */
 header, footer {
     padding: 1em;
-    color:teal;
+    color:black;
     background-color: purple;
     clear: left;
     text-align: center;
@@ -31,7 +31,7 @@ nav ul {
     padding: 0;
 }
 a:hover{
-    background-color:teal;
+    background-color:black;
 }
    
 nav ul a {
