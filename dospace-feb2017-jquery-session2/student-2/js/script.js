@@ -3,7 +3,7 @@ $(document).ready(function(){
 $('button').click(function(){
       $('img').fadeOut();
     });
-  $('header').click(function(){
-    $('header').css('background-color', 'red');
+  $('header, footer').click(function(){
+    $('header, footer').css('background-color', 'red');
   });
 });
