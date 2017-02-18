@@ -38,6 +38,9 @@ h3{
   text-decoration: none;
 }
 
+p{
+ text-align: justify; 
+}
 span{
 color: orange;
 font-weight: bold;
