@@ -1,7 +1,10 @@
 $(document).ready(function(){
   $("h1").fadeIn();
 
-  $("button").click(function(){
+    $(".in").click(function(){
+    $("img").fadeIn();
+  });
+  $(".out").click(function(){
     $("img").fadeOut();
   });
  
