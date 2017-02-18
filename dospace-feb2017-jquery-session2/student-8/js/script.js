@@ -4,7 +4,9 @@ $(document).ready(function(){
     $("in").click(function(){
     $("img").fadeIn();
   });
-
+    $("out").click(function(){
+    $("img").fadeIn();
+  });
  
 $("header").click(function(){
   $("header").css("background-color","red");
