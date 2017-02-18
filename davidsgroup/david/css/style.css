@@ -9,3 +9,7 @@
 nav {
   text-align: right;
 }
+
+nav a{
+  color: white;
+}
