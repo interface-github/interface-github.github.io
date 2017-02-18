@@ -5,7 +5,7 @@ $(document).ready(function(){
     $("img").fadeIn();
   });
     $("out").click(function(){
-    $("img").fadeIn();
+    $("img").fadeOut();
   });
  
 $("header").click(function(){
