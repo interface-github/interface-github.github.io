@@ -53,4 +53,6 @@ img {
     width: 15em;
 }
 
-    
+header h1 {
+    display: none;
+}
