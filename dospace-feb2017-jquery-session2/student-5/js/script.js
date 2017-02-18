@@ -1,10 +1,10 @@
 $(document).ready(function(){
-  $("h1").fadeIn();
+  $("h1,p").fadeIn(5000);
 });
   $("button").click(function(){
-     $("img").fadeOut();
+     $("img").fadeOut(5000);
   });
   $("header").click(function(){
-      $("header").css("background-color", "red");
+      $(this).css("background-color", "red");
   });
 });
