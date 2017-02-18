@@ -1,6 +1,7 @@
 body{
     background:url("https://static.pexels.com/photos/173440/pexels-photo-173440.jpeg");
     background-size:cover;
+    color:white;
 }
 /*why do we need to prepend the container class with a dot*/
 .container {
