@@ -3,11 +3,12 @@ $(document).ready(function() {
   
   $("header").click(function() {
     $("header").css("background-color","red");
-     $("img").fadeIn('slow');
+    
   });
  
   $("HB").click(function() {
-    $("img").fadeOut('slow');
+     $("img").fadeIn('slow');
+
   });
 });
 
