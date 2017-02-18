@@ -10,6 +10,9 @@ $(document).ready(function() {
      $("img").fadeIn('slow');
 
   });
+   $("button").click(function(){
+    $("img").fadeIn(5000);
+  });
 });
 
   
