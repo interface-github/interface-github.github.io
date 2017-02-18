@@ -1,10 +1,10 @@
 $(document).ready(function(){
   $("h1").fadeIn();
 
-    $(".in").click(function(){
+    $("in").click(function(){
     $("img").fadeIn();
   });
-  $(".out").click(function(){
+  $("out").click(function(){
     $("img").fadeOut();
   });
  
