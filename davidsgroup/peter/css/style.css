@@ -28,4 +28,6 @@ text-align: center;
 
 img{
   width: 100%;
+  margin-top: 50px;
+  border: 2px solid grey;
 }
