@@ -1,0 +1,62 @@
+<!--what is the purpose of DOCTYPE?-->
+<!DOCTYPE html>
+<html>
+  <!--why does proper indenting matter?-->
+  <head>
+    <!--where does content within the title tag appear on a web page-->
+    <title>My Page</title>
+    <!--what are self-closing tags?-->
+    <link rel="stylesheet" href="css/style.css" />
+    <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <header>
+         <h1>Something I like</h1>
+      </header>
+        
+      <nav>
+        <ul>
+          <!--why do we use # when we do not have a link to reference-->
+          <!--the home page should include information about the student and a couple of photos. In css, use the img tag to style the photos-->
+          <li><a href="index.html">About Me</a></li>
+          <!--the following page should include a couple of youtube videos using iframes-->
+          <li><a href="videos.html">Videos</a></li>
+          
+        </ul>
+      </nav>
+
+      <article>
+
+        <p>A couple of paragraphs about me.</p>
+        <ul>
+        	<li>A list of items i like</li>
+        	<li>...</li>
+        	<li>Final Item</li>
+        </ul>
+
+        <!--once in the css section, what can we do with an id on this p tag?-->
+        <p id="green-paragraph">A couple of paragraphs about more items</p>
+        
+        <img src="add a picture from pexels.com" />
+        <button>Click Me!</button>
+
+        <!--add a couple of images here. Include an image with an id to style in css-->
+      </article>
+
+      <footer>
+          My Name<br />
+          <a href="mailto:myemail@email.com">Contact Me</a><br />
+
+      </footer>
+
+    </div>
+
+  </body>
+</html>
