@@ -40,6 +40,10 @@ h3 {
   color: #000089;
 }  
 
+p{
+ text-align: justify; 
+}
+
 span{
  color: orange;
  font-weight: bold;
