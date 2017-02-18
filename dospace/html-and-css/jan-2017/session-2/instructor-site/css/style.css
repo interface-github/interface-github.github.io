@@ -8,7 +8,7 @@
 header, footer {
     padding: 1em;
     color: white;
-    background-color: black;
+    background:url('https://static.pexels.com/photos/24491/pexels-photo-24491.jpg');
     clear: left;
     text-align: center;
 }
