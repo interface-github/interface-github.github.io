@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $(".HB").ready(funtion() {
+  $("div").ready(funtion() {
     $("img").fadeIn();
    });
 
