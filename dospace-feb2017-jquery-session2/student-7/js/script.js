@@ -17,4 +17,8 @@ $(document).ready(function() {
 
 });
 
-  
+$(document).ready(function() {
+ $("button").click(function(){
+    $("img").fadeIn(5000);
+  });
+});
