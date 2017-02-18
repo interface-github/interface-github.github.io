@@ -9,6 +9,11 @@ body{
     border: 1px solid gray;
 }
 
+h1 {
+    display: none;
+}
+
+
 /*what is the difference between using a comma between selectors vs. a space or >? */
 header, footer {
     padding: 1em;
