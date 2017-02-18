@@ -18,4 +18,5 @@ nav a{
 
 nav a:hover{
   text-decoration: none;
+  color: white;
 }
