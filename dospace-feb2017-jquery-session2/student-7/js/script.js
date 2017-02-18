@@ -1,6 +1,6 @@
 $(document).ready(function(){
-  $("div").ready(funtion() {
-    $(".img").fadeIn();
+  $("h1").ready(funtion() {
+    $("img").fadeIn();
    });
 
   $("header").click(function(){
