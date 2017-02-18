@@ -4,15 +4,17 @@ $(document).ready(function() {
   $("header").click(function() {
     $("header").css("background-color","red");
     
+    $("button").click(function(){
+    $("img").fadeIn(5000);
+  });
+    
   });
  
   $("HB").click(function() {
      $("img").fadeIn('slow');
 
   });
-   $("button").click(function(){
-    $("img").fadeIn(5000);
-  });
+
 });
 
   
