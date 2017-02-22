@@ -46,3 +46,8 @@ span{
   color: orange;
   font-weight: bold;
 }
+
+#image-across{
+  width: 100%;
+  position: fixed
+}
