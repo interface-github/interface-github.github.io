@@ -7,7 +7,7 @@ body {
 }
 
 #btn btn-default {
-background-color:#339933;
+background-color:#339933 !important;
 }
 
 #about, #portfolio, #contact {
