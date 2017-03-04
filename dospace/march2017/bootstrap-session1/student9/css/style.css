@@ -6,8 +6,8 @@ body {
     height:100%; 
 }
 
-#btn btn-default {
-background-color:#339933 !important;
+.btn btn-default {
+background-color: #339933;
 }
 
 #about, #portfolio, #contact {
