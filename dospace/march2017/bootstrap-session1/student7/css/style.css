@@ -1,0 +1,18 @@
+/*selector {
+property: value;
+}*/
+body { 
+    width:100%; 
+    height:100%; 
+}
+
+#about, #portfolio, #contact {
+ height: 500px;
+  padding-top: 150ps;
+  text-align: center;
+}
+
+#about {background: green;}
+#portfolio {background: red;}
+#contact{background: yellow;}
+  
