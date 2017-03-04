@@ -6,6 +6,10 @@ body {
     height:100%; 
 }
 
+#btn btn-default {
+background:#339933;
+}
+
 #about, #portfolio, #contact {
  height: 500px;
   padding-top: 150ps;
