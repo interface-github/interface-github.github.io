@@ -4,6 +4,10 @@
     background-color: #000000;
 }
 
-#logo h1{
+#logo h1 {
     color: red;
+}
+
+#logo h1 span {
+    color: blue;
 }
