@@ -1,15 +1,5 @@
-/* Hello Molly! This is a comment in CSS. Coders use comments to make notes in their code that only they can see. */
-h1 {
-  font-size: 4em;
-  background-color: red;
+#top-header {
+    width: 100%;
+    height: 150px;
+    background-color: #000000;
 }
-
-h2 {
-  color: blue;
-}
-
-span {
-  color: orange;
-}
-
-
