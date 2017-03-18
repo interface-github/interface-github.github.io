@@ -1,13 +1,13 @@
-logo {
-
-}
-
-span {
- 
-}
-
 #top-header {
  width: 100%;
  height: 90px;
  background-color: #000000;
+}
+
+#logo h1 {
+ color: red;
+}
+
+span {
+ 
 }
