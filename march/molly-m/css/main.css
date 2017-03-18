@@ -3,3 +3,7 @@
     height: 90px;
     background-color: #000000;
 }
+
+#logo h1{
+    color: red;
+}
