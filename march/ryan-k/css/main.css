@@ -15,3 +15,9 @@
 nav a{
  color: #ffffff;
 }
+
+nav a:hover{
+ color: #eaeaea;
+ text-decoration: none;
+}
+
