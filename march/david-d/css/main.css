@@ -15,3 +15,12 @@
 nav a{
   color: white;
 }
+
+nav a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+img{
+  width: 50%;
+}
