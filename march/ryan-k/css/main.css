@@ -14,11 +14,12 @@
 
 nav {
  margin-top:37px;
+ text-align: right;
 }
 
 nav a{
  color: #ffffff;
- padding-right:20px;
+ padding-left:20px;
 }
 
 nav a:hover{
