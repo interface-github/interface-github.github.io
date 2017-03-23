@@ -25,13 +25,13 @@ img{
     width: 100%;
 }
 
-#first {
+#first{
     text-align: center;
     background-color: grey;
 }
 
-col-sm-4 {
-    
+#first p{
+    text-align: justified;
 }
 
 
