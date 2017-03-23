@@ -25,12 +25,12 @@ img{
     width: 100%;
 }
 
-#first{
+.first{
     text-align: center;
-    background-color: grey;
+    background-color: #bada55;
 }
 
-#first p{
+.first p{
     text-align: justify;
 }
 
