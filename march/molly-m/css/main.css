@@ -22,12 +22,13 @@ nav a:hover{
 }
 
 img{
+    display: block;
+    margin: auto;
     width: 100%;
 }
 
 .first{
     margin-top: 3em;
-    text-align: center;
     background-color: #bada55;
 }
 
@@ -37,7 +38,6 @@ img{
 
 .second{
     margin-top: 200px;
-    text-align: center;
 }
 
 .second p{
