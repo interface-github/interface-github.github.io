@@ -35,3 +35,9 @@ img {
 .first-time p {
  text-align: justify;
 }
+
+#footer{
+ background-color: #cccccc;
+ font-size: 72px;
+ padding:50px;
+}
