@@ -41,3 +41,7 @@ img {
  font-size: 72px;
  padding:50px;
 }
+
+#title {
+ text-align: center;
+}
