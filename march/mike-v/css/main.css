@@ -12,6 +12,9 @@
     color: blue;
 }
 
+nav {
+  margin-top: 37px; 
+}
 nav a{
   color: white;
 }
