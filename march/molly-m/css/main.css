@@ -1,11 +1,3 @@
-col-sm-4 {
-    
-}
-
-#first {
-    text-align: center;
-}
-
 #top-header {
     width: 100%;
     height: 90px;
@@ -32,3 +24,14 @@ nav a:hover{
 img{
     width: 100%;
 }
+
+#first {
+    text-align: center;
+    background-color: grey;
+}
+
+col-sm-4 {
+    
+}
+
+
