@@ -51,19 +51,17 @@ img{
 
 h1{
     font-size: 2em;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+    font-family: 'Istok Web', sans-serif;
 }
 
 h4{
     font-size: 2em;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+    font-family: 'Istok Web', sans-serif;
     text-align: justify;
 }
 
 p{
     font-size: 1.2em;
-    font-family: 'Bitter', sans-serif;
+    font-family: 'Lora', sans-serif;
     line-height: 2em;
 }
