@@ -18,6 +18,7 @@ nav {
 
 nav a{
     color: white;
+    text-align: right;
     padding-right: 10px;
 }
 
@@ -46,6 +47,12 @@ img{
 
 .second p{
     text-align: justify;
+}
+
+h1{
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
 }
 
 h4{
