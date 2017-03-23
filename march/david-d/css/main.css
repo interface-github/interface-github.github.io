@@ -29,3 +29,7 @@ img{
   text-align: center;
   background-color: grey;
 }
+
+#first-time p{
+  text-align: justified;
+}
