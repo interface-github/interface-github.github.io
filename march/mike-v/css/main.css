@@ -17,6 +17,7 @@ nav {
 }
 nav a{
   color: white;
+  padding-right: 10px;
 }
 
 nav a:hover{
