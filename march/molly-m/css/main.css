@@ -13,12 +13,12 @@
 }
 
 nav {
-    margin-top: 40%;
-    
+    margin-top: 30px;
 }
 
 nav a{
     color: white;
+    padding-right: 10px;
 }
 
 nav a:hover{
@@ -51,7 +51,8 @@ img{
 
 h4{
     font-size: 2em;
-    font-family: 'Montserrat 700', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
     text-align: justify;
 }
 
