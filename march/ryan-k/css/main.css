@@ -26,8 +26,10 @@ img {
 }
 
 .first-time {
+ margin-top: 25px;
  text-align: center;
  background-color: grey;
+
 }
 
 .first-time p {
