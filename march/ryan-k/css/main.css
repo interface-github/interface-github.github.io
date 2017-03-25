@@ -15,13 +15,13 @@
 }
 
 #nav-links a {
-  text-align:right;
   padding:20px;
   color:#ffffff;
 }
 
 nav {
   padding-top:45px;
+  text-align:right;
 }
 
 center-text {
