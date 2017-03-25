@@ -4,8 +4,10 @@
   background-color: #000000;
 }
 
-#logo-name {
-  color:white;
+.logo-name {
+  color: white;
+  font-size: 2em;
+  padding-top:20px;
 }
 
 a nav-links {
