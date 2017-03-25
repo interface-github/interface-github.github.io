@@ -64,6 +64,13 @@ img {
   color: rgba(255,255,255,0.60)
 }
 
-.btn-primary{
-  background-color: yellow;
+.btn-primary {
+    background-color: yellow;
+    border-color: yellow;
+    color: black;
 }
+
+.btn-primary:hover{
+ background-color:red;
+}
+
