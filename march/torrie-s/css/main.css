@@ -44,7 +44,8 @@ img{
 }
 
 p{
-  color: black;
+  background-color: #444;
+  color: white;
   padding: 20px;
 }
 
