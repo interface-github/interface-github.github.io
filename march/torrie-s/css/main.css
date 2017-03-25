@@ -8,7 +8,7 @@
   padding-top: 32px;
   color: white;
   font-size: 2em;
-  background-color: black;
+  background-color: transparent;
 }
 
 #logo span{
@@ -51,4 +51,5 @@ p{
 
 footer{
   display: block;
+  text-align: center;
 }
