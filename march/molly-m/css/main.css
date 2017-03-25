@@ -4,7 +4,10 @@
   background-color: black;
 }
 
-p {
-  color: white;
-  font-size: 2em;
+#logo p{
+  color:white;
+}
+
+#logo span {
+  color: red;
 }
