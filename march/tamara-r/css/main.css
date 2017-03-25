@@ -40,4 +40,8 @@ h1{
 
 img {
   width: 100%;
-}
+  
+  p{
+    backgroundcolor:#444;
+    color: #fff;
+  }
