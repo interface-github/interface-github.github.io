@@ -14,4 +14,12 @@
   color: red;
 }
 
+nav a{
+  padding-top: 34px;
+  color: white; 
+}
 
+nav a:hover{
+  color: red;
+  text-decoration: none;
+}
