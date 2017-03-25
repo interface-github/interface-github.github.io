@@ -22,7 +22,7 @@ nav a{
   color: white;
 }
 
-nav a{
+nav a hover{
   color: red;
   text-decoration: none;
 }
