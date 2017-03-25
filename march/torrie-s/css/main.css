@@ -42,3 +42,8 @@ img{
   width: 100%;
 }
 
+p{
+  font-family: "Georgia";
+  background-color: #444;
+  color: #fff;
+}
