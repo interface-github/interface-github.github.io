@@ -14,12 +14,15 @@
   color: red;
 }
 
+nav{
+  padding-top: 34px;
+}
+
 nav a{
   color: white;
 }
 
 nav a:hover{
-  padding-top: 34px;
   color: red;
   text-decoration: none;
 }
