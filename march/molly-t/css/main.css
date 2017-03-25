@@ -28,6 +28,10 @@ nav a:hover{
   text-decoration: none;
 }
 
+h1{
+text-align: center;
+}
+
 img{
     width: 100%;
 }
