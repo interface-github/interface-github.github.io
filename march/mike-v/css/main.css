@@ -27,3 +27,12 @@ nav a:hover{
   color: red;
   text-decoration: none;
 }
+
+h1{
+  text-align: center;
+}
+
+img{
+  width: 100%;
+  
+}
