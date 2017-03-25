@@ -44,11 +44,10 @@ img{
 }
 
 p{
-  color: #fff;
+  color: blue;
   padding: 20px;
 }
 
-footer{
-  display: block;
-  text-align: center;
+#bottom-footer{
+  margin-top: 70px;
 }
