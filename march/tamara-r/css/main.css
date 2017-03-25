@@ -42,6 +42,7 @@ img {
   width: 100%;
   
   p{
-    backgroundcolor:#444;
+    background-color:#444;
     color: #fff;
+    padding: 20px;
   }
