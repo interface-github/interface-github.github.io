@@ -15,8 +15,10 @@
 }
 
 nav {
+  padding-top: 34px;
   padding-left: 5px;
   padding-right: 5px;
+  padding-bottom: 34px;
 }
 
 nav a {
