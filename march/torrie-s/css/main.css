@@ -18,10 +18,10 @@ nav a{
     color: white;
 }
 nav a:hover{
-color:red;
-text-decoration: none;
+  color:red;
+  text-decoration: none;
 }
 
 nav{
-padding-top: 34px;
+  padding-top: 34px;
 }
