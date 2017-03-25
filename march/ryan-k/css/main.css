@@ -45,3 +45,7 @@ nav a:hover{
 .white-bg-card-padding {
   padding:15px;
 }
+
+.extra-padding {
+  padding-top: 50px;
+}
