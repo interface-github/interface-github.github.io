@@ -4,7 +4,7 @@
   background-color: black;
 }
 
-#logo p{
+#logo p {
   padding-top: 32px;
   color: white;
   font-size: 2em;
@@ -14,11 +14,16 @@
   color: red;
 }
 
-nav a{
+nav {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+nav a {
   color: white;
 }
 
-nav a:hover{
+nav a:hover {
   opacity: 0.8;
   text-decoration: none;
 }
