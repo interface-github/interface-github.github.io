@@ -8,6 +8,7 @@
   padding-top: 32px;
   color: white;
   font-size: 2em;
+  font-family: "Georgia";
 }
 
 #logo span{
@@ -33,6 +34,8 @@ h1{
   background-color: #ccc;
   font-family: "Georgia";
   margin-top: 0px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 img{
