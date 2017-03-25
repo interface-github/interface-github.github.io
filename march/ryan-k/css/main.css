@@ -63,3 +63,7 @@ img {
   font-size: 10px;
   color: rgba(255,255,255,0.60)
 }
+
+.btn-primary{
+  background-color: yellow;
+}
