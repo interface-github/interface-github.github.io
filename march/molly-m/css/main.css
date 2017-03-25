@@ -6,7 +6,8 @@
 
 p {
   font-size: 1.5em;
-  color: #A9A9A9;
+  color: #696969;
+  padding: 10px;
 }
 
 #logo p {
@@ -38,6 +39,7 @@ nav a:hover {
 h1 {
   text-align: center;
   padding: 10px;
+  color: #ffffff;
   background-color: #A9A9A9;
 }
 
