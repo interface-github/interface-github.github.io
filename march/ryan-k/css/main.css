@@ -1,13 +1,12 @@
 #top-header {
   width: 100%;
-  margin: 30px;
+  padding: 30px;
   background-color: #000000;
 }
 
 #logo-name p {
   color: white;
   font-size: 2em;
-  padding-top: 32px;
 }
 
 #logo-name span {
@@ -20,7 +19,7 @@ nav a {
 }
 
 nav {
-  padding-top:45px;
+  padding-top:12px;
   text-align:right;
 }
 
