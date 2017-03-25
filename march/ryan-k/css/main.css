@@ -14,7 +14,7 @@
   color:yellow;
 }
 
-#nav-links a {
+nav a {
   padding:20px;
   color:#ffffff;
 }
@@ -22,6 +22,10 @@
 nav {
   padding-top:45px;
   text-align:right;
+}
+
+nav a:hover{
+ color: yellow;
 }
 
 .center-text {
