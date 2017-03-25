@@ -15,14 +15,15 @@
 }
 
 nav{
-padding-top: 34px;
+  padding-top: 34px;
+  padding-left: 10px;
 }
 
 nav a{
   color: white;
 }
 
-nav a: hover{
+nav a:hover{
   color: red;
   text-decoration: none;
 }
