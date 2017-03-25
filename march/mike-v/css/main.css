@@ -31,9 +31,10 @@ nav a:hover{
 h1{
   text-align: center;
   background-color: #ccc;
-  margin-top= 0px;
+  margin-top: 0px;
+  padding-bottom: 50px;
 }
-
+  
 img{
   width: 100%;
 }
