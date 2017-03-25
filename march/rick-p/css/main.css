@@ -9,6 +9,17 @@
   color: white;
   font-size: 2em;
 }
+
 #logo span{
   color: red;
+}
+
+nav a{
+  padding-top: 34px;
+  color: white;
+}
+
+nav a{
+  color: red;
+  text-decoration: none;
 }
