@@ -50,3 +50,11 @@ h1 {
 img {
   width: 100%;
 }
+
+#bottom-footer {
+  margin-top: 70px;
+}
+
+#bottom-footer p {
+  margin-bottom: 0px;
+}
