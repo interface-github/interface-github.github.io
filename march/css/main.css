@@ -46,3 +46,11 @@ p{
   color: #fff;
   padding: 20px;
 }
+
+#bottom-footer{
+  margin-top: 70px;
+}
+
+#bottom-footer p{
+  margin-bottom: 0px;
+}
