@@ -4,13 +4,13 @@
   background-color: #000000;
 }
 
-.logo-name {
+#logo-name p {
   color: white;
   font-size: 2em;
   padding-top: 30px;
 }
 
-#logo {
+#logo-name span {
   color:yellow;
 }
 
