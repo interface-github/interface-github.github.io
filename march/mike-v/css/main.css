@@ -8,9 +8,18 @@
   padding-top: 32px;
   color: white;
   font-size: 2em;
-  
 }
 
 #logo span{
   color: red;
+}
+
+nav a{
+  color: white;
+}
+
+nav a:hover{
+  padding-top: 34px;
+  color: red;
+  text-decoration: none;
 }
