@@ -53,3 +53,12 @@ nav a:hover{
 img {
   width: 100%;
 }
+
+#footer-bg {
+  background-color: #000;
+}
+
+#footer-bg p {
+  font-size: 10px;
+  color: rgba(255,255,255,0.20)
+}
