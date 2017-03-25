@@ -4,8 +4,14 @@
   background-color: #000000;
 }
 
-nav-links {
+#logo-name {
+  color:white;
+}
+
+a nav-links {
   text-align:right;
   padding:20px;
   color:#ffffff;
 }
+
+
