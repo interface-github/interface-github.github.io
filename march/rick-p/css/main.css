@@ -51,3 +51,7 @@ p{
 #bottom-footer{
   margin-top: 70px;
 }
+
+#bottom-footer{
+  margin-bottom: 0px;
+}
