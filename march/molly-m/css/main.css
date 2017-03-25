@@ -32,6 +32,12 @@ nav a:hover {
 
 h1 {
   text-align: center;
+  padding: 10px;
+}
+
+p {
+  font-size: 1.5em;
+  color: #A9A9A9;
 }
 
 img {
