@@ -10,11 +10,11 @@
   padding-top: 30px;
 }
 
-#name {
+#logo {
   color:yellow;
 }
 
-a nav-links {
+#nav-links a {
   text-align:right;
   padding:20px;
   color:#ffffff;
