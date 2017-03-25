@@ -49,3 +49,7 @@ nav a:hover{
 .extra-padding {
   padding-top: 50px;
 }
+
+img {
+  width: 100%;
+}
