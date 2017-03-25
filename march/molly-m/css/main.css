@@ -13,3 +13,12 @@
 #logo span {
   color: red;
 }
+
+nav a{
+  color: white;
+}
+
+nav a:hover{
+  opacity: 0.5;
+  text-decoration: none;
+}
