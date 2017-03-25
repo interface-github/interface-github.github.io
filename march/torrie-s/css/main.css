@@ -2,5 +2,8 @@
   height: 100px;
   width: 100%;
   background-color: black;
-  color: blue;
+}
+p {
+color: white;
+font-family: Georgia;
 }
