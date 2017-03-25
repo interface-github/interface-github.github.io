@@ -29,6 +29,9 @@ nav a:hover{
 }
 
 h1{
+  
+  padding-bottom: 50px;
+  padding-top: 50px;
   text-align: center;
   background-color: #ccc;
   margin-top: 0px;
