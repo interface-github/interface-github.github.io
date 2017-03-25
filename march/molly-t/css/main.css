@@ -14,8 +14,11 @@
   color: red;
 }
 
+nav{
+padding-top: 34px
+}
+
 nav a{
-  padding-top: 34px;
   color: white;
 }
 
