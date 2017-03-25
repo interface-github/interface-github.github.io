@@ -31,7 +31,8 @@ nav a:hover{
 h1{
   text-align: center;
   background-color: #ccc;
-  font: "Georgia";
+  font-family: "Georgia";
+  margin-top: 0px;
 }
 
 img{
