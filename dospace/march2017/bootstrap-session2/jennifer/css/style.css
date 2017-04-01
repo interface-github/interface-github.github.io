@@ -7,6 +7,10 @@ property: value;
   background-size:cover;
 }
 
+section {
+  padding-top: 150px;
+}
+
 #blogs img {
   height: 200px;
   width: 200px;
