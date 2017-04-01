@@ -15,7 +15,7 @@ p {
   color: red;
 }
 
-p: hover {
-   font-size: 1em;
+p:hover {
+  font-size: 1em;
   background: blue;
 }
