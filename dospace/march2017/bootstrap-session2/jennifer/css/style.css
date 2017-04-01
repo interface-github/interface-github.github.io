@@ -7,3 +7,14 @@ property: value;
   background-size:cover;
 }
 
+#blog img {
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+
+h1 {
+  color: #6600cc;
+  font-size: 1em;
+  font-family: georgia;
+}
