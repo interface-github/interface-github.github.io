@@ -2,22 +2,11 @@
 property: value;
 }*/
 
-h1 {
-  color: #ff6699;
+.jumbotron {
+  background:url('https://static.pexels.com/photos/66921/tulips-flowers-red-purple-66921.jpeg');
+  background-size:cover;
 }
 
-p {
-  font-size: 2em;
-  color: #00ffff;
-}
 
-#red {
-  color: red;
-}
-
-p:hover {
-  font-size: 1em;
-  background: blue;
-}
   
 
