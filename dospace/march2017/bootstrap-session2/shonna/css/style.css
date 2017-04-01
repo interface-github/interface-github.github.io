@@ -6,10 +6,15 @@ property: value;
   background:url('https://static.pexels.com/photos/66921/tulips-flowers-red-purple-66921.jpeg');
   background-size:cover;
   height: 500px;
+  margin-top: 150px; 
 }
 
 section {
-  padding-top: 50px;
+  margin-top: 50px;
+}
+
+#blogs {
+  background: red;
 }
 
 #blogs img {
