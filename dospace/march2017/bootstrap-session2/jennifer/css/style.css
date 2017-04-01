@@ -2,20 +2,8 @@
 property: value;
 }*/
 
-h1 {
-  color: #ff6699;
+.jumbotron {
+  background:url('http://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/976b4a14-029a-11e7-be72-8bb2080e4a91.jpg?_dc=1488824864');
+  background-size:cover;
 }
 
-p {
-  font-size: 2em;
-  color: #00ffff;
-}
-
-#red {
-  color: red;
-}
-
-p:hover {
-  font-size: 1em;
-  background: blue;
-}
