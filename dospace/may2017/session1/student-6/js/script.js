@@ -1,5 +1,5 @@
-$(document).ready(function(){
-  
+$(document).ready(function)(){
+  $("h1,p,img").fadeIn("slow");
 
 });
   
