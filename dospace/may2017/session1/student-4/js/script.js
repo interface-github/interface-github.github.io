@@ -10,6 +10,6 @@ $(document).ready(function() {
   
   $('img').click(function() {
     $(this).css('border-radius','100px');
-  }):
+  });
 });
   
