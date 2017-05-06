@@ -1,14 +1,14 @@
 /*why do we need to prepend the container class with a dot*/
 .container {
     width: 100%;
-    border: 1px solid
+    border: 1px solid gray;
 }
 
 /*what is the difference between using a comma between selectors vs. a space or >? */
 header, footer {
     padding: 1em;
-    color: green;
-    background-color: gray;
+    color: blue;
+    background-color: 212F3C;
     clear: left;
     text-align: center;
 }
