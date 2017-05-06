@@ -6,7 +6,7 @@ $("button").click(function(){
 $("header,footer").click (function(){
   $(this).css("background:"green" ,"color":"white");
 });
-  $("img").click(function(){
-    $(this).css("border-radius":"100px");
+  $("img").click (function(){
+    $(this).css("border-radius","100px");
 });
 });
