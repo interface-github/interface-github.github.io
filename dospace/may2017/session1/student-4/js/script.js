@@ -5,8 +5,7 @@ $(document).ready(function() {
   });
   
   $('header, footer').click(function() {
-    $(this).css('background-color', '#7c1f78');
-    $(this).css('color', 'white');
+    $(this).css('background-color': '#7c1f78', 'color': 'white', 'border-radius': '100px');
   });
 });
   
