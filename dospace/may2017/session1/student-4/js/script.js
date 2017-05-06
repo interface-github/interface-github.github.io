@@ -5,7 +5,7 @@ $(document).ready(function() {
   });
   
   $('header, footer').click(function() {
-    $(this).css('background-color', #7c1f78);
+    $(this).css('background-color', '#7c1f78');
   });
 });
   
