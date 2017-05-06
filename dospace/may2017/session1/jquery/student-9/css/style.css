@@ -1,7 +1,7 @@
 /*why do we need to prepend the container class with a dot*/
 .container {
     width: 100%;
-    border: 1px solid #212F3C
+    border: 1px solid
 }
 
 /*what is the difference between using a comma between selectors vs. a space or >? */
