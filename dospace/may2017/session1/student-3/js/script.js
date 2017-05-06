@@ -7,6 +7,6 @@ $("h1,p,img").fadeIn("slow");
     $(this).css("background":"purple","color":"white");
 });
    $("img").click(function(){
-     $(this).css("border-radius","100px");
+     $(this).css("border-radius","110px");
   });  
 });
