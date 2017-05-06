@@ -4,6 +4,6 @@ $(document).ready(function() {
     $("img").fadeOut(6000);
   });
   $("header, footer").click(function(){
-    $(this).css("background", "purple", "color":"white");
+    $(this).css("background", "#5a2372", "color":"white");
   });
 });
