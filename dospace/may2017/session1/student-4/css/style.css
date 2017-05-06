@@ -2,7 +2,7 @@
 .container {
     width: 100%;
     border: 1px solid gray;
-    font-color: #c9fd2e;
+    color: #c9fd2e;
 }
 
 /*what is the difference between using a comma between selectors vs. a space or >? */
