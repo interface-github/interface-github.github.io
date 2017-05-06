@@ -4,4 +4,7 @@ $(document).ready(function(){
   $("button").click(function() {
     $("img").fadeOut(1000);
   });
+  $("header, footer").click(function(){
+    $(this).css("background-color:#cfc;");
+  });
 });
