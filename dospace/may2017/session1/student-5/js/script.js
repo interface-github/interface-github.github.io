@@ -5,6 +5,6 @@ $(document).ready(function(){
     $("img").fadeOut(1000);
   });
   $("header, footer").click(function(){
-    $(this).css("background-color:#cfc;");
+    $(this).css("background-color","#cfc;");
   });
 });
