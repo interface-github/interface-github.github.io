@@ -6,5 +6,7 @@ $("h1,p,img").fadeIn("slow");
   $("header,footer").click(function)(){
     $(this).css("background":"purple","color":"white");
 });
-    
+   $("img").click(function(){
+     $(this).css("border-radius","100px");
+  });  
 });
