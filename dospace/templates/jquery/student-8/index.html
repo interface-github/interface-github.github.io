@@ -1,0 +1,62 @@
+<!--what is the purpose of DOCTYPE?-->
+<!DOCTYPE html>
+<html>
+  <!--why does proper indenting matter?-->
+  <head>
+    <!--where does content within the title tag appear on a web page-->
+    <title>My Page</title>
+    <!--what are self-closing tags?-->
+    <link rel="stylesheet" href="css/style.css" />
+    <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <header>
+         <h1>Something I like</h1>
+      </header>
+        
+      <nav>
+        <ul>
+          <!--why do we use # when we do not have a link to reference-->
+          <!--the home page should include information about the student and a couple of photos. In css, use the img tag to style the photos-->
+          <li><a href="index.html">About Me</a></li>
+          <!--the following page should include a couple of youtube videos using iframes-->
+          <li><a href="videos.html">Videos</a></li>
+          
+        </ul>
+      </nav>
+
+      <article>
+
+        <p>A couple of paragraphs about me.</p>
+        <ul>
+        	<li>A list of items i like</li>
+        	<li>...</li>
+        	<li>Final Item</li>
+        </ul>
+
+        <!--once in the css section, what can we do with an id on this p tag?-->
+        <p id="green-paragraph">A couple of paragraphs about more items</p>
+        
+        <img src="https://www.google.com/imgres?imgurl=https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_960_720.jpg&imgrefurl=https://pixabay.com/en/photos/cat/&h=720&w=858&tbnid=HR3uWxjt9lIc-M:&vet=1&tbnh=168&tbnw=200&docid=GNgiwtR-iQNmZM&itg=1&usg=__QbLr_alJUc4HRCx-zHC_MfDXnHY=&sa=X&ved=0ahUKEwissdrf1JrSAhXMx4MKHSIyCLkQ_B0IdjAO" />
+        <button class="in" type="button">Click Me!</button>
+        <button class="out" type="button">Hide Pictures</button>
+        <!--add a couple of images here. Include an image with an id to style in css-->
+      </article>
+
+      <footer>
+          My Name<br />
+          <a href="mailto:myemail@email.com">Contact Me</a><br />
+
+      </footer>
+
+    </div>
+
+  </body>
+</html>
