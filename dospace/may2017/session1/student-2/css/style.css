@@ -7,8 +7,8 @@
 /*what is the difference between using a comma between selectors vs. a space or >? */
 header, footer {
     padding: 1em;
-    color: purple;
-    background-color: gray;
+    color: dark blue;
+    background-color: light blue;
     clear: left;
     text-align: center;
 }
