@@ -12,7 +12,7 @@ $(document).ready(function () {
     });
   
   $("div").click(function () {
-    $(this).fadeout(5000);
+    $(this).fadeOut(5000);
     });
   
 });
