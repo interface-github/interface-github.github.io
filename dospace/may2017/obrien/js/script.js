@@ -3,13 +3,16 @@ $(document).ready(function () {
   $(this).css("color","blue");
   });
 
-
-$("div").mouseenter(function () {
-  $(this).css("border-radius","100px");
-  });
+  $("div").mouseenter(function () {
+    $(this).css("border-radius","100px");
+    });
   
-$("div").mouseleave(function () {
-  $(this).css("border-radius","0px");
-  });
+  $("div").mouseleave(function () {
+    $(this).css("border-radius","0px");
+    });
+  
+  $("div").click(function () {
+    $(this).fadeout(5000);
+    });
   
 });
