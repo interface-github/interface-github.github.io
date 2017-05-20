@@ -7,3 +7,30 @@ p {
   color: red;
 }
 
+div {
+  height: 100px;
+  width: 100px;
+  border: 1px black;
+  text-align: center;
+  display: inline-block;
+  margin: 0;
+}
+
+#green {
+  background: green;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#purple {
+  background: purple;
+  color: white;
+}
+
+#black {
+  background: black;
+  color: white;
+}
+
