@@ -6,4 +6,7 @@ $("p").click(function(){
  $("div").mouseenter(function(){
   $(this).css("border-radius","100px");
 });
+  $("div").click(function(){
+  $(this).fadeOut(5000);
 });
+  });
