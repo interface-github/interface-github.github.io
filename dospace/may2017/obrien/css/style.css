@@ -12,6 +12,7 @@ div{
   width: 100px;
   border:1px black;
   text-align: center;
+  display:inline-block;
   margin: 0;
 }
 
