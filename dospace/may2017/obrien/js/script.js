@@ -8,4 +8,8 @@ $("div").mouseenter(function () {
   $(this).css("border-radius","100px");
   });
   
+$("div").mouseleave(function () {
+  $(this).css("border-radius","0px");
+  });
+  
 });
