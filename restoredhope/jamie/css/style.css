@@ -1,1 +1,13 @@
-.
+h1 {
+  color: purple;
+}
+
+p {
+  color:red;
+  font-size:30px;
+}
+
+img {
+  height:200px;
+  width:200px;
+}
