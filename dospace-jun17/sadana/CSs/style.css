@@ -6,3 +6,12 @@ background:blue;}
 #gray{
   background:gray;
 }
+
+section{
+  height:500px;
+  padding-top:100px;
+}
+
+jumbotron{
+  background: url("");
+}
