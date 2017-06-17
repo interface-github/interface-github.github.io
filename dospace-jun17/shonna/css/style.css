@@ -15,6 +15,10 @@ section {
   padding-top: 100px;
 }
 
+#contact {
+  padding-top: 500px;
+}
+
 jumbotron {
   background: url("https://static.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg");
 }
