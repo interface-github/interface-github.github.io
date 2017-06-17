@@ -1,5 +1,17 @@
 
 .img-circle{height: 140px;
 }
-#blue{background:blue;}
-#gray{background:gray;}
+#blue{
+  background:blue;
+}
+#gray{
+  background:gray;
+}
+section{
+  height:500px;
+  padding-top: 100px;
+}
+
+jumotron {
+  background: url("");
+}
