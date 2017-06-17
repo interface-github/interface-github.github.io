@@ -8,8 +8,12 @@
   background:gray;
 }
 section{
-  height:500px;
+  height:300px;
   padding-top: 20px;
+}
+
+#contact {
+  padding-top: 300px;
 }
 
 jumotron {
