@@ -16,6 +16,10 @@ section {
   padding-top:100px;
 }
 
+#contact {
+  padding-top: 500px;
+}
+
 jumbotron {
   background: url("https://static.pexels.com/photos/439227/pexels-photo-439227.jpeg");
 }
