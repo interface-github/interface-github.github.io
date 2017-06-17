@@ -7,3 +7,10 @@
 #green {
   background-color: green;
 }
+section {
+  height: 600px;
+  padding-top: 100px;
+}
+jumbotron {
+  background: url("http://google.com");
+}
