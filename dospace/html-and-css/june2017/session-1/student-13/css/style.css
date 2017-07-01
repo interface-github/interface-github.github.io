@@ -2,6 +2,11 @@
 1. Customize colors and sections throughout the HTML document
 2. Add an image selector and update the size and border-radius*/
 
+body {
+    background-color: lightblue;
+}
+
+
 p {
     font-family: verdana;
     font-size: 50px;
