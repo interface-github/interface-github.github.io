@@ -2,3 +2,10 @@
 1. Customize colors and sections throughout the HTML document
 2. Add an image selector and update the size and border-radius
 
+p {
+        color: #efcc97;
+       }
+img {
+border-radius=:25%
+}
+
