@@ -23,11 +23,17 @@ nav {
 nav ul {
     list-style-type: none;
     padding: 0;
+    text-align: center;
 } 
 
-body {
+article {
+    margin-left: 170px;
+    border-left: 1px solid blue;
+    padding: 1em;
+    overflow: hidden;
     text-align: center;
 }
+
 
 p {
    color: purple;
