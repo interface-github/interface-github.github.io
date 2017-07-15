@@ -4,7 +4,7 @@ img {
     border-radius: 10%;
 }
 
-header, footer {
+header, footer, ul {
     padding: 1em;
     color: blue;
     background: orange;
