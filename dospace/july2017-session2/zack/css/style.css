@@ -18,6 +18,8 @@ nav {
     padding 1em;
     color: purple;
     background: black;
+    text-align: center;
+    max-height: 160px;
 }
 
 nav ul {
