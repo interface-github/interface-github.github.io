@@ -11,7 +11,14 @@ header, footer {
     text-align: center;
 }
 
-
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding 1em;
+    color: purple;
+    background: black;
+}
 
 
 p {
