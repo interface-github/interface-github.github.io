@@ -1,0 +1,58 @@
+body{
+    background:url("https://static.pexels.com/photos/173440/pexels-photo-173440.jpeg");
+    background-size:cover;
+    color:white;
+}
+/*why do we need to prepend the container class with a dot*/
+.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+h1 {
+    display: none;
+}
+
+
+/*what is the difference between using a comma between selectors vs. a space or >? */
+header, footer {
+    padding: 1em;
+    color: white;
+    background:url('https://static.pexels.com/photos/24491/pexels-photo-24491.jpg');
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+#green-paragraph {
+    /*enter property and value pairs here to style this paragraph*/
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+img{
+    height:200px;
+    width:200px;
+    border-radius:200px;
+}
+
