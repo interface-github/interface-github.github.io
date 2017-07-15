@@ -11,3 +11,12 @@ header, footer {
   background: yellow;
   text-align: center;
 }
+
+nav {
+  float: left;
+  margin: 0;
+  padding: 1em;
+  background: green;
+  color: yellow;
+}
+  
