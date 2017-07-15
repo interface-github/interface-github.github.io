@@ -7,6 +7,6 @@ img {
 header, footer {
     padding: 1em;
     color: blue;
-    background:url('https://static.pexels.com/photos/248323/pexels-photo-248323.jpeg');
+    background: orange;
     text-align: center;
 }
