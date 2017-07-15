@@ -24,3 +24,10 @@ nav ul {
   list-style-type: none;
   padding: 10;
 }
+
+article {
+  margin-left: 170px;
+  border-left: 1px solid gray;
+  padding: 1em;
+  overflow: hidden;
+}
