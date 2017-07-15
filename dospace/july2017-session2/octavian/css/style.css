@@ -2,3 +2,9 @@ img{
   height:200px;
   width:200px:
     border-radius:100%
+}
+
+header, footer {
+  paddin:1e;
+  color:red;
+  backgroud:url( "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages4.alphacoders.com%2F605%2Fthumb-1920-60578.jpg&imgrefurl=https%3A%2F%2Fwall.alphacoders.com%2Ftags.php%3Ftid%3D135&docid=pR7IFShf9Q6xWM&tbnid=qYXIkdVdfiPLaM%3A&vet=10ahUKEwiq-LSZm4zVAhVn04MKHdFQCgwQMwjuASgDMAM..i&w=1920&h=1080&bih=794&biw=1600&q=joker&ved=0ahUKEwiq-LSZm4zVAhVn04MKHdFQCgwQMwjuASgDMAM&iact=mrc&uact=8")
