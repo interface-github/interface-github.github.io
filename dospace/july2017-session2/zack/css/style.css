@@ -3,6 +3,15 @@ img {
     width: 200px; 
     border-radius: 50%; 
 } 
+
+header, footer {
+    padding: 1em;
+    color: green;
+    background: black;
+}
+
+
+
 p {
    color: purple;
 }
