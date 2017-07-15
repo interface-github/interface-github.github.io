@@ -3,3 +3,9 @@ img {
   weidth: 200px;
   border-radius: 100%;
 }
+
+header, footer {
+  padding: 1em;
+  color: Pink;
+  background: #FFFFFF;
+  text-align: center;
