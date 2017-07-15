@@ -3,3 +3,10 @@ img {
   width: 200px;
   border-radius: 50%;
 }
+
+header, footer {
+  padding: 1em;
+  color: blue;
+  background:yellow;
+  text-align: center;
+}
