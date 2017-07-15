@@ -18,3 +18,8 @@ nav{
   padding: 1em;
   color:red;
   background: green;
+}
+nav ul {
+  list-style-type:none;
+  padding; 0;
+}
