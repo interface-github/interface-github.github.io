@@ -3,3 +3,10 @@ height: 200px;
 width: 200px;
 border-radius: 27%;
 }
+
+header, footer {
+  padding: 1em;
+  color: blue;
+  background: purple;
+  text-align: center;
+}
