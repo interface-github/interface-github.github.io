@@ -14,6 +14,7 @@ header, footer {
 nav {
     float: left;
     max-width: 160px;
+    max-height: 500px;
     margin: 0;
     padding: 1em;
     color: black;
