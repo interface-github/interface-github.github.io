@@ -10,3 +10,17 @@ header, footer {
   background: pink;
   text-align: center;
 }
+
+nav {
+  float: left;
+    max-width: 160px;
+  margin: 0;
+  padding: 1em;
+  color: pink;
+  background: green;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 10;
+}
