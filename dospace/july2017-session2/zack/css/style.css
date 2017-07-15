@@ -8,7 +8,7 @@ header, footer {
     padding: 1em;
     color: green;
     background: #99ccff;
-    text-align: center;
+    text-align: right;
 }
 
 nav {
@@ -18,14 +18,14 @@ nav {
     padding 1em;
     color: purple;
     background: black;
-    text-align: center;
+    text-align: left;
     max-height: 160px;
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
-    text-align: center;
+    text-align: left;
 } 
 
 article {
