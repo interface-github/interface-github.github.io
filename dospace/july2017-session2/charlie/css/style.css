@@ -16,6 +16,17 @@ nav {
     max-width: 160px;
     margin: 0;
     padding: 1em;
-    color: orange;
-    background: black;
+    color: black;
+    background: orange;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
 }
