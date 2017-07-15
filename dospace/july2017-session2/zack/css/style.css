@@ -20,6 +20,14 @@ nav {
     background: black;
 }
 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+} 
+
+body {
+    text-align: center;
+}
 
 p {
    color: purple;
