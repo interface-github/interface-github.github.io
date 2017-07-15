@@ -10,3 +10,24 @@ header, footer {
   background: blue;
   text-align: center;
 }
+
+nav {
+  float: left;
+  max-width: 160px;
+  margin: 0;
+  padding: 1em;
+  color: red;
+  background: black;
+}
+nav ul{
+  list-style-type: none;
+  
+}
+
+article {
+margin-left: 170px;
+border-left: 1 px solid grey;
+padding: 2em;
+overflow: hidden;
+
+}
