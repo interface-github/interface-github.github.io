@@ -1,7 +1,7 @@
 img {
-    height: 200px;
-    width: 200px;
-    border-radius: 10%;
+    height: 50%;
+    width: 50%;
+    border-radius: 20%;
 }
 
 header, footer {
@@ -9,4 +9,13 @@ header, footer {
     color: blue;
     background: orange;
     text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+    color: orange;
+    background: black;
 }
