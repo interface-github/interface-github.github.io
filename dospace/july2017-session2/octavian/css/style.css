@@ -10,3 +10,11 @@ header, footer {
   backgroud:black;
   text-align; center;
 }
+
+nav{
+  float: left;
+  max-width: 160px;
+  margin:0;
+  padding: 1em;
+  color:red;
+  background: green;
