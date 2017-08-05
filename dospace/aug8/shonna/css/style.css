@@ -1,0 +1,15 @@
+img {
+  height: 10em;
+  width: 10em;
+}
+
+img:hover {
+  border-radius: 10em;
+}
+
+button {
+  height: 3em;
+  background: green;
+  border-radius: 1em;
+  color: white;
+}
