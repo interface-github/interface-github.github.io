@@ -4,7 +4,8 @@ $(document).ready(function (){
     $('img').fadeOut(5000);
  
   });
- });
+
 $('p').click(function(){
     $(this).css("font-color","red");
-
+ });
+   });
