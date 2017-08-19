@@ -1,1 +1,23 @@
-delete this text
+header, footer {
+  text-align: center;
+  background: darkblue;
+  padding: 2em;
+  width: 32em;
+}
+
+h1 {
+  display: none;
+}
+
+button {
+  padding: 1em
+  background: green;
+  border-radius: 1em;
+}
+
+img {
+  height: 13em;
+  width: 13em;
+  border-radius: 13em;
+}
+  
