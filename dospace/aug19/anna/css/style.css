@@ -10,7 +10,7 @@ h1 {
 }
 
 button {
-  padding: 1em
+  padding: 1em;
   background: green;
   border-radius: 1em;
 }
