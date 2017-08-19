@@ -7,6 +7,6 @@ $(document).ready(function(){
     $('header').css("background-color", "purple");
   });
   $('p').click(function(){
-    $(this).css("color", "darkblue");
+    $(this).css("color", "red");
   });
 });
