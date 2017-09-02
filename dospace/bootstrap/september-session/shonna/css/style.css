@@ -1,8 +1,11 @@
 .navbar-default {
-  background: blue;
+  background: blue; 
+}
+
+.navbar-nav {
   color: white;
 }
 
-.navbar-default .active {
+.navbar-nav .active {
   background: yellow;
 }
