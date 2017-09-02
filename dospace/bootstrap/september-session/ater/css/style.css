@@ -1,9 +1,14 @@
 .navbar-default {
   background: blue;
+  
+}
+
+.navbar-nav .active {
   color: white;
 }
 
-.navbar-default .active {
-  background: yellow;
+.navbar-nav .active {
+background: lavender;
 }
+
 
