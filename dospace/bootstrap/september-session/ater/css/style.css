@@ -13,5 +13,6 @@ background: lavender;
 .jumbotron {
   background:url("https://static.pexels.com/photos/540518/pexels-photo-540518.jpeg");
   background-size: cover;
+  color: white;
 }
 
