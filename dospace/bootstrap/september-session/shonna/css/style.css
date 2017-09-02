@@ -10,3 +10,8 @@
   background: yellow;
 }
 
+.jumbotron {
+  background:url("https://static.pexels.com/photos/248771/pexels-photo-248771.jpeg");
+  background-size: cover;
+}
+
