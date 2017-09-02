@@ -3,11 +3,11 @@
   
 }
 
-.navbar-nav .active {
+.nav .navbar li a{
   color: white;
 }
 
-.navbar-nav .active {
+.nav .navbar li .active {
 background: lavender;
 }
 
