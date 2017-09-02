@@ -16,3 +16,12 @@
   background-size: cover;
   color:red;
 }
+
+.thumbnail img {
+  height:250px;
+}
+.footer {
+  background: blue;
+  color:red;
+  text-align:center;
+}
