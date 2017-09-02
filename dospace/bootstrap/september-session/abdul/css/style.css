@@ -2,11 +2,15 @@
   background: blue;
 }
 
-.nav .navbar li a {
+.nav .navbar-nav li a {
   color: white;
 }
 
-.nav .navbar li .active {
+.nav .navbar-nav li .active {
   background: yellow;
 }
 
+.jumbotron {
+  background:url("");
+  background-size: cover;
+}
