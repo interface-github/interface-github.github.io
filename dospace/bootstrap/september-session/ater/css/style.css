@@ -16,3 +16,13 @@ background: lavender;
   color: white;
 }
 
+.thumbnail img {
+  height: 250px;
+}
+
+.footer {
+  background: blue;
+  color: white;
+  text-align: center;
+}
+
