@@ -14,4 +14,5 @@
 .jumbotron {
   background:url("https://static.pexels.com/photos/518557/pexels-photo-518557.jpeg");
   background-size: cover;
+  color:red;
 }
