@@ -1,1 +1,8 @@
-/* comment */
+.navbar-default {
+  background: blue;
+  color: white;
+}
+
+.navbar-default .active {
+  background: yellow;
+}
