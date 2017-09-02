@@ -3,10 +3,10 @@
  
 }
 
-.navbar-nav {
+.nav .navbar li a {
   color: red ;
 }
 
-.navbar-nav.active {
+.nav .navbar li .active {
   background: yellow;
   }
