@@ -1,5 +1,8 @@
 .navbar-default {
   background: blue;
+}
+
+.navbar-nav {
   color: white;
 }
 
