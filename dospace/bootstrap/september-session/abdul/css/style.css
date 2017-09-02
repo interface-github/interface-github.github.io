@@ -3,7 +3,11 @@
   color: white;
 }
 
-.navbar-default .active {
+.navbar-nav {
+  color: white;
+}
+
+.navbar-nav .active {
   background: yellow;
 }
 
