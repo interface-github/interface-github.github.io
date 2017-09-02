@@ -15,3 +15,13 @@
   background-size: cover;
   color: #555;
 }
+
+.thumbnail img {
+  height: 250px;
+}
+
+.footer {
+  background: blue;
+  color: white;
+  text-align: center;
+}
