@@ -2,10 +2,10 @@
   background: blue; 
 }
 
-.navbar-nav {
+ul>.nav>.navbar-nav {
   color: white;
 }
 
-.navbar-nav .active {
+ul>.nav>.navbar-nav>.active {
   background: yellow;
 }
