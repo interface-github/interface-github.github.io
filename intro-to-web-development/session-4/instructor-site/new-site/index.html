@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8">
+      <meta name="description" content="Free Web tutorials">
+      <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+      <meta name="author" content="John Doe">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>My Web Page</title>
+      
+    <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-        BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+   
+      <link rel="stylesheet" href="css/style.css" />
+      
+      <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+    <script src="js/script.js"></script>
+    
+   </head>
+  <body>
+<nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">My Website</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">About</a></li>
+            <li><a href="#about">Contact</a></li>
+          </ul>
+           
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+    <section id="about">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="" />
+        </div>
+        <div class="col-md-8">
+          <p id="red">This is some red text. <a href="#">This link</a></p>
+          <p id="green">This is some red text.</p>
+        </div>
+      </div>
+    </section>
+    
+    <section id="contact">
+    <div class="form-group">
+      <label for="inputEmail1">Email address</label>
+      <input type="email" class="form-control" id="inputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+    <div class="form-group">
+    <label for="example-text-input" class="col-2 col-form-label">Text</label>
+      
+       <input class="form-control" type="text" value="Artisanal kale" id="example-text-input">
+  </div>
+    <div class="form-group">
+      <label for="textarea">Example textarea</label>
+      <textarea class="form-control" id="textarea" rows="3"></textarea>
+    </div>
+      <button type="submit" class="btn btn-success">Submit</button>  
+    </section>
+        
+  </body>
+</html>

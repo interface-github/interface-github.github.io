@@ -1,0 +1,35 @@
+section {
+  height: 800px;
+  padding-top: 150px;
+}
+
+#about {
+  background: gray;
+  }
+  
+#contact {
+  background: pink;
+  padding: 30px;
+  }
+
+
+#about img {
+  border-radius: 200px;
+  height: 200px;
+  width: 200px;
+  }
+ 
+ #red {
+  color: red;
+  }
+  
+  #green {
+    color: green;
+    }
+    
+ #about a:hover {
+  background: pink;
+  }
+  
+  
+
