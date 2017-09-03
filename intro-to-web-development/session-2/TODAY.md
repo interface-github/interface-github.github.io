@@ -1,5 +1,4 @@
-<h1>Session 2</h2>
-<hr/>
+<h1>Session 2</h1>
 <ol>
   <li>Group work - fix the broken website!</li>
   <li>Delete our code and build a basic site from the ground up (repeat all of day 1 in 45 minutes)</li>
