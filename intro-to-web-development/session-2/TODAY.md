@@ -1,4 +1,4 @@
-<b><font color="red">Today's session</font></b>
+<h1>Session 2</h2>
 <hr/>
 <ol>
   <li>Group work - fix the broken website!</li>
