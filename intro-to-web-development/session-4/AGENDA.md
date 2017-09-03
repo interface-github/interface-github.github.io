@@ -1,3 +1,4 @@
+<h1>Session 4</h1>
 <b>Final Workshop Session!</b>
 
 Our agenda for today follows:
