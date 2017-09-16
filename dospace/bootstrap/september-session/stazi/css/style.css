@@ -3,11 +3,11 @@ header {
   font-size: 3em;
   height: 4 3m;
   width: 100%;
-  background: grey;
+  background: #8b8d8e;
   }
   
   p {
-  color: black;
+  color: #121416;
   font-size: 2em;
   }
   
@@ -28,5 +28,5 @@ header {
 button {
   padding: 1em;
   border-radius: 2em;
-  background: pink;
+  background: #e5107e;
 }
