@@ -1,5 +1,5 @@
 $(document).ready(funtion() {
   $('button').click(function(){
-    $(this).fadeOut(2000);
+    $('img').fadeOut(2000);
   });
 });
