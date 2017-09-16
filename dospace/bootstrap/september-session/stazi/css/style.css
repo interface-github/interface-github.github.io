@@ -24,3 +24,9 @@ header {
     #rounded-picture {
       border-radius:10em;
     }
+
+button {
+  padding: 1em;
+  border-radius: 2em;
+  background: pink;
+}
