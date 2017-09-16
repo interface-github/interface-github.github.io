@@ -1,0 +1,32 @@
+header {
+  color: Brown;k
+  font-size: 3em;
+  height: 4 em;
+  width: 100%
+  background: Grey;
+}
+
+p {
+  color: red;
+  font-size: 2em;
+}
+
+#blue-text {
+  color: Brown;
+}
+
+img {
+  height: 10 em;
+  width: 10 em;
+  
+}
+
+#rounded-picture {
+  border-radius: 10em;
+}
+
+button {
+  padding: 1em;
+  border-radius: 2em;
+  background: Royal Blue;
+}
