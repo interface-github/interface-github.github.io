@@ -1,0 +1,26 @@
+header {
+  color: #f4c242;
+  font-size: 3em;
+  height: 4 3m;
+  width: 100%;
+  background: grey;
+  }
+  
+  p {
+  color: black;
+  font-size: 2em;
+  }
+  
+  #gold-text {
+    color: #f49542;
+    }
+    
+  img {
+    height: 10em;
+    width 10em;
+    
+    }
+    
+    #rounded-picture {
+      border-radius:10em;
+    }
