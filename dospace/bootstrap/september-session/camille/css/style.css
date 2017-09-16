@@ -1,0 +1,33 @@
+  header {
+  color: pink;
+  font-size: 3em;
+  height: 4em;
+  width: 100%;
+  background: green;
+  }
+  
+  p 
+    color: red;
+    font-size: 23m;
+    }
+    
+    #blue-text {
+      color: blue;
+ }
+ 
+ img {
+    height: 10em;
+    width: 10em;
+    }
+    
+    #rounded-picture {
+    border-radius: 10em;
+    }
+    
+    button {
+    padding: 13m;
+    border-radius: 2em;
+    backgound: pink;
+    }
+  
+  
