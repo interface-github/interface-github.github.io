@@ -1,13 +1,13 @@
 header {
   color: Brown;k
   font-size: 3em;
-  height: 4 em;
+  height: 4em;
   width: 100%
   background: Grey;
 }
 
 p {
-  color: red;
+  color: Brown;
   font-size: 2em;
 }
 
@@ -16,8 +16,8 @@ p {
 }
 
 img {
-  height: 10 em;
-  width: 10 em;
+  height: 10em;
+  width: 10em;
   
 }
 
