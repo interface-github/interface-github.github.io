@@ -16,7 +16,7 @@
   background-size: cover;
 }
 
-.thumbnail img {
+.thumbnail {
   height: 250px;
   border: 0 none;
   box-shadow: none;
