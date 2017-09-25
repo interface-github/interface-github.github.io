@@ -17,6 +17,7 @@
 }
 
 .thumbnail img {
+  border: 0;
   height: 250px;
 }
 
