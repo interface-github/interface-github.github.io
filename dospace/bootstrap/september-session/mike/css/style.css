@@ -17,9 +17,12 @@
 }
 
 .thumbnail {
-  height: 250px;
   border: 0 none;
   box-shadow: none;
+}
+
+.thumbnail img {
+  height: 250px;
 }
 
 .footer {
