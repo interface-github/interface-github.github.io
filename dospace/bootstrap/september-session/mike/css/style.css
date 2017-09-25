@@ -16,9 +16,9 @@
   background-size: cover;
 }
 
-.thumbnail img {
-  border: 0;
-  height: 250px;
+.thumbnail {
+  border: 0 none;
+  box-shadow: none;
 }
 
 .footer {
