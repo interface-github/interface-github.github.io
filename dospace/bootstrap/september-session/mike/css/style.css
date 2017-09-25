@@ -19,6 +19,7 @@
 .thumbnail {
   border: 0 none;
   box-shadow: none;
+  height: 250px;
 }
 
 .footer {
