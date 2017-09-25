@@ -16,10 +16,6 @@
   background-size: cover;
 }
 
-.thumbnail {
-  border: 0;
-}
-
 .thumbnail img {
   height: 250px;
 }
