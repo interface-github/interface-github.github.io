@@ -2,14 +2,6 @@
   background: #f7f7f7;
 }
 
-.nav .navbar-nav li a {
-  color: white;
-}
-
-.nav .navbar li .active {
-  background: yellow;
-}
-
 body { 
     padding-top: 65px; 
 }
