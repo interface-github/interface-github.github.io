@@ -13,7 +13,7 @@ header h1 {
 
 nav {
 float: left;
-  width: 10em
+  width: 10em;
     height: 20em;
   padding: 1em;
   background: pink;
@@ -21,7 +21,7 @@ float: left;
 
 nav a {
   color: green;
-  text-decoration: none
+  text-decoration: none;
 }
 
 nav a:hover {
@@ -30,7 +30,7 @@ nav a:hover {
 }
 
 section {
-  padding-left: 1em:
+  padding-left: 1em;
 }
 
 img{
