@@ -10,11 +10,27 @@ header h1{
   font-family: script;
 }
 
+nav{
+  float: left;
+  width: 5em;
+  height: 20em;
+  color: #67daff;
+  text-color: white;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  border-bottom: yellow;
+  border-style: solid;
+}
+
 img{
   max-width: 10%;
 }
-
-
 
 img:hover{
   border-radius: 5em;
