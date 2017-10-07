@@ -1,1 +1,24 @@
-test
+header {
+  background: green;
+  height: 10em;
+  width: 100%;
+  paddding: 10em;
+}
+
+header h1 {
+  color: white;
+  font-size: 4em;
+  font-style: italic;
+}
+
+img{
+  height: 10em;
+  width: 10em;
+}
+
+  imag:hover {
+    border-radius: 10em;
+}
+footer {
+  clear: both;
+}
