@@ -21,13 +21,14 @@ nav {
 
 nav a {
   color: yellow;
-  text decoration: none;
+  text-decoration: none;
 }
 
 nav a:hover {
-  text decoration: underline;
+  text-decoration: underline;
   background: purple;
-  
+}
+
   img {
   height: 10em;
   width: 10em;
