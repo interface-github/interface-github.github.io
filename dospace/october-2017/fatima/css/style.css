@@ -13,8 +13,8 @@ header h1 {
 
 nav {
 float: left;
-  width: 10em
-    height: 20em
+  width: 10em;
+    height: 20em;
     padding: 1em; 
     background: pink;
 }
