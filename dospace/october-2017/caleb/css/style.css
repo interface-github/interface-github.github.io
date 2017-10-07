@@ -1,5 +1,5 @@
 header {
-  background: brown;
+  background: green;
   height: 10em;
   width: 100%;
   padding: 1em;
@@ -15,7 +15,7 @@ nav {
   width: 10em;
     height: 20em;
   padding: 1em;
-background: yellow;
+background: green;
 }
 
 
@@ -26,10 +26,15 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
-  background: yellow;
+  background: green;
 }
 
-img {
+section {
+  float: right; 
+  padding-left: 1em;
+}
+  
+  img {
   height: 10em;
   width: 10em;
  }
