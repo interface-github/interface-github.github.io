@@ -13,9 +13,9 @@ header h1 {
 nav {
   float: left;
   width: 10em;
-  height:20em;
+  height: 20em;
   padding: 1em;
-  color: red;
+  background: red;
 }
 nav a {
   color: purple;
