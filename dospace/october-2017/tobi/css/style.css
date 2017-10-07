@@ -28,6 +28,12 @@ nav a:hover {
   text decoration: underline;
   background: yellow;
 }
+
+section {
+  float: left;
+  padding-left: 1em:
+}
+
 img{
   height: 10em;
   width: 10em;
