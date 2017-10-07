@@ -1,1 +1,24 @@
-test
+header, footer {
+  background: red;
+  height: 10em;
+  width: 100%;
+  padding: 1em;
+}
+
+header h1 {
+ color: white;
+  font-size: 4em;
+  font-style: italic;
+}
+img {
+  height: 10em;
+    width: 10em;
+  border-radiue: 10em; 
+}
+
+footer {
+  clear: both;
+  /*putst at bottom of page*/
+}
+
+
