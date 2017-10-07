@@ -37,7 +37,6 @@ section {
 img {
   height: 10em;
   width: 10em;
-  border-radius: 10em;
 }
 
 img:hover {
