@@ -26,6 +26,7 @@ nav a:hover {
   background: gray;
 }
   section { 
+    width: 20em;
     float: right;
     padding-left: 1em;
 }
