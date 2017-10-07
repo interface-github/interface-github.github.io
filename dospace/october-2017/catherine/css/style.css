@@ -11,10 +11,10 @@ header h1 {
   font-style: italic;
 }
 nav {
+  float: left;
   width: 10em;
   height: 20em;
-
-  background: red;
+  padding: 1em;
 }
 nav a {
   color: purple;
@@ -23,10 +23,9 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
-  background: gray;
+  background: gray:
 }
   section { 
-    width: 20em;
     float: left;
     padding-left: 1em;
 }
@@ -45,5 +44,3 @@ footer {
   clear: both;
   /*putst at bottom of page*/
 }
-
-
