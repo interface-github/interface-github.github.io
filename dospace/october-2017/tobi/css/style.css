@@ -30,7 +30,6 @@ nav a:hover {
 }
 
 section {
-  float: left;
   padding-left: 1em:
 }
 
@@ -42,6 +41,7 @@ img{
   img:hover {
     border-radius: 10em;
 }
+
 footer {
   clear: both;
 }
