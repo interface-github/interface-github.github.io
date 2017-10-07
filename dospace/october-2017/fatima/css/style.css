@@ -19,14 +19,19 @@ float: left;
     background: pink;
 }
 
-nav a {color: green;
+nav a {
+  color: green;
   text-decoration: none:
-  
-}
+  }
 
 nav a:hover {
   text-decoration: underline;
   background: yellow;
+}
+
+section {
+  float: left;
+ padding-left: 1em;
 }
 
 img {
