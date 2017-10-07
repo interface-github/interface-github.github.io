@@ -26,7 +26,7 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
-  background: green;
+  background: blue;
 }
 
 section { 
