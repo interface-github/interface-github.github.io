@@ -11,14 +11,13 @@ header h1{
 }
 
 img{
-  max-width: 30%;
-  border-radius: 20em;
+  max-width: 50%;
 }
 
 
 
 img:hover{
-  border-radius: 20em;
+  border-radius: 5em;
   max-width: 10%;
 }
 
