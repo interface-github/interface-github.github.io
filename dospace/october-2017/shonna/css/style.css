@@ -1,1 +1,55 @@
-test
+header, footer {
+  background: green;
+  height: 10em;
+  width: 100%;
+  padding: 1em;
+}
+
+header h1 {
+  color: white;
+  font-size: 4em;
+  font-style: italic;
+}
+
+@media only screen and (max-width: 400px) {
+    header {
+        background-color: red;
+        color: yellow;
+    }
+}
+
+nav {
+ float: left;
+  width: 10em;
+  height: 20em;
+  padding: 1em;
+  background: pink;
+}
+
+nav a {
+  color: green;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  background: yellow;
+}
+
+section {
+  float: left;
+  padding-left: 1em;
+}
+
+img {
+  height: 10em;
+  width: 10em;
+}
+
+img:hover {
+  border-radius: 10em;
+}
+
+footer {
+  clear: both;
+}
