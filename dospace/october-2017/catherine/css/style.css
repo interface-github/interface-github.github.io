@@ -21,11 +21,15 @@ nav a {
   color: purple;
     text-decoration:none;
 }
+
 nav a:hover {
   text-decoration: underline;
   background: gray:
 }
-  
+  section { 
+    float: left;
+    padding-left: 1em;
+}
   
 
 img {
