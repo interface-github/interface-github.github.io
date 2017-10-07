@@ -13,7 +13,10 @@ header h1 {
 img {
   height: 10em;
     width: 10em;
-  border-radiue: 10em; 
+}
+
+img: hover {
+  border-radius: 10em; 
 }
 
 footer {
