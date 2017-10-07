@@ -1,12 +1,12 @@
 header {
-  background: purple and yellow;
+  background: red;
   height: 10em;
   width: 100%;
   padding: 1em;
 }
   
  header h1 {
-   color: yellow;
+   color: blue;
    font size: 4em;
    font style: italic;
 }
@@ -15,18 +15,18 @@ nav {
    width: 10em;
    height: 20em
    padding: 1em;
-   background: purple; 
+   background: black; 
 
 }
 
 nav a {
-  color: yellow;
+  color: blue;
   text-decoration: none;
 }
 
 nav a:hover {
   text-decoration: underline;
-  background: purple;
+  background: red;
 }
 
   img {
