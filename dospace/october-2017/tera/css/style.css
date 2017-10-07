@@ -11,6 +11,23 @@ header h1 {
   font-style: italic;
 }
 
+nav {
+ background: purple;
+  float: left;
+  width: 10em;
+  height: 20em;
+  padding: 1em;
+}
+
+nav a {
+  color: green;
+  text-decoration: none;
+}
+
+nav a:hover {
+ text-decoration: underline; 
+}
+
 img {
   height: 10em;
   width: 10em;
