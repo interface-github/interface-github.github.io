@@ -15,6 +15,13 @@ img{
   border-radius: 20em;
 }
 
+
+
+img:hover{
+  border-radius: 20em;
+  max-width: 10%;
+}
+
 footer{
   clear: both;
 }
