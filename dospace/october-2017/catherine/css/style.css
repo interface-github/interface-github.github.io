@@ -15,7 +15,7 @@ img {
     width: 10em;
 }
 
-img: hover {
+img:hover {
   border-radius: 10em; 
 }
 
