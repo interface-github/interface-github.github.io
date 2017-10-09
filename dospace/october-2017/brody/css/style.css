@@ -4,6 +4,13 @@ header {
   width: 100%;
   padding: 1em;
 }
+ 
+
+header h1 {
+  color: blue;
+  font size: 4em;
+  font style: bold;
+}
   
  header h1 {
    color: blue;
@@ -21,7 +28,7 @@ nav {
 
 nav a {
   color: blue;
-  text-decoration: none;
+  text-decoration: 
 }
 
 nav a:hover {
