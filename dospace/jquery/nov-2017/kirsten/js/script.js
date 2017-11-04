@@ -4,5 +4,5 @@ $(document).ready(function() {
   $('img').fadeToggle(2000);
   });
   $('header').click(function(){
-    $('header').css('background'), 'grey');
+    $('header').css('background', 'grey');
   });
