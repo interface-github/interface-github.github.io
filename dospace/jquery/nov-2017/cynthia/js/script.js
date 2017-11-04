@@ -3,6 +3,6 @@ $(document).ready(funtion(){
 $('button').click(function(){
   $('img').fadeOut(2000);
 });
-$('header').click(function(){'"red");
+$('header').click(function(){("red");
                             });
 });
