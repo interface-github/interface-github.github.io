@@ -1,1 +1,13 @@
-css
+h1 {
+  color: red;
+}
+header {
+  backgorund: blue;
+  width:100%; padding :20px;
+}
+img {
+  border-radiusa; 200px;
+  width: 200px;
+  height: 200px;
+  display: none;
+}
