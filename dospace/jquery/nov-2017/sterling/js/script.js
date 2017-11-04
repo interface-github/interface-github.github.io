@@ -8,6 +8,6 @@ $(document).ready(function() {
     
     });
   $('header').click(function(){
-    $('header').css('background', "purple"):
+    $('header').css('background', "purple");
   
 });
