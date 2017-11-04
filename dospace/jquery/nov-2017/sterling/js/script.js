@@ -7,5 +7,7 @@ $(document).ready(function() {
     $('img').fadeOut(2000);
     
     });
+  $('header').click(function(){
+    $('header').css('background', "red"):
   
 });
