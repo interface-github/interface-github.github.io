@@ -8,6 +8,8 @@ $(document).ready(function() {
     
     });
   $('header').click(function(){
-    $('header').css('background',"blue");
+    $('header').css('background','blue');
   
+   });
+
 });
