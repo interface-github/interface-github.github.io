@@ -1,3 +1,6 @@
 body {
     font: 16px 'Arial', sans-serif;
 }
+h1 {
+    color: red;   
+}
