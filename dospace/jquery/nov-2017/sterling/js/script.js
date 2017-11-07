@@ -4,10 +4,10 @@ $(document).ready(function() {
   
   $('button')click.(function() {
     
-    $('img').fadeOut(2000);
+    $('img').fadeOut(5000);
     
     });
   $('header').click(function(){
-    $('header').css('background', "purple");
+    $('header').css('background',"blue");
   
 });
