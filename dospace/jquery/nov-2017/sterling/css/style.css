@@ -8,15 +8,15 @@ header
 
 {
   background: green;
-  width:1000%; padding:2000px;
+  width:10%; padding:50px;
 }
 
 img 
 
 {
-  border-radius; 2000px;
-  width: 2000px;
-  height: 2000px;
+  border-radius; 20px;
+  width: 20px;
+  height: 20px;
   display: all;
 }
 
