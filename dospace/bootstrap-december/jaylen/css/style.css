@@ -41,12 +41,12 @@ body {
   margin-bottom: 2rem;
   border: 0;
 }
-
 .card > img {
   margin-bottom: .75rem;
   height: 16em;
   witdth: 18em;
   margin:auto;
+  border-radius:16em;
 }
 
   
