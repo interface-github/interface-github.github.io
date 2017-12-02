@@ -10,7 +10,9 @@ body {
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background: url('https://static.pexels.com/photos/189524/pexels-photo-189524.jpeg');
+    background-size:cover;
+  color:#fff;
 }
 
 .jumbotron p:last-child {
@@ -47,6 +49,7 @@ body {
   margin:auto;
 }
 
+  
 .card-text {
   font-size: 85%;
 }
