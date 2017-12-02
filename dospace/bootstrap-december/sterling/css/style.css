@@ -10,7 +10,7 @@ body {
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background: url("https://static.pexels.com/photos/161890/african-american-slavery-man-woman-161890.jpeg");
 }
 
 .jumbotron p:last-child {
@@ -47,6 +47,7 @@ body {
   margin:auto;
 }
 
+ 
 .card-text {
   font-size: 85%;
 }
