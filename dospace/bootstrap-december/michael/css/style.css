@@ -49,7 +49,7 @@ body {
   margin: auto;
 }
 
-.card >img:hover {
+.card > img:hover {
    border-radius:16em;
 }
 
