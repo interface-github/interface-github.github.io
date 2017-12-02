@@ -12,7 +12,7 @@ body {
   margin-bottom: 0;
   background: url('https://images.pexels.com/photos/110867/pexels-photo-110867.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb');
   background-size: cover;
-  color: #fff
+  color: #fff;
 }
 
 .jumbotron p:last-child {
