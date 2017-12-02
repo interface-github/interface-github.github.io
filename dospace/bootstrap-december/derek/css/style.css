@@ -49,6 +49,9 @@ body {
   margin:auto;
 }
 
+.card > img:hover {
+  border-radius:16em;
+
 .card-text {
   font-size: 85%;
 }
