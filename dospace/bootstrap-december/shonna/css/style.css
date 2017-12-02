@@ -10,7 +10,7 @@ body {
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background: url('https://static.pexels.com/photos/13918/pexels-photo-13918.jpeg');
 }
 
 .jumbotron p:last-child {
