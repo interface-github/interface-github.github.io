@@ -10,7 +10,9 @@ body {
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-color: #fff;
+  backgroung: url('https://www.pexels.com/photo/sky-space-milky-way-stars-110854/')
+  background-color: cover
+  color: #fff;
 }
 
 .jumbotron p:last-child {
