@@ -11,6 +11,7 @@ body {
   padding-bottom: 6rem;
   margin-bottom: 0;
   background-color: #fff;
+  
 }
 
 .jumbotron p:last-child {
@@ -47,6 +48,7 @@ body {
   margin: auto;
   
 }
+
 
 .card-text {
   font-size: 85%;
