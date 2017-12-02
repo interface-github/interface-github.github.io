@@ -38,13 +38,14 @@ body {
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
+  margin: auto;
 }
 
 .card > img {
   margin-bottom: .75rem;
   height: 15em;
   width: 17em;
-}
+  }
 
 .card-text {
   font-size: 85%;
