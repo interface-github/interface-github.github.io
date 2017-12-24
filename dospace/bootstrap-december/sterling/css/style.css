@@ -7,10 +7,12 @@ body {
 }
 
 .jumbotron {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   margin-bottom: 0;
-  background: url("https://static.pexels.com/photos/62285/church-trappist-georgia-monastery-62285.jpeg");
+  backgroung: url('https://www.pexels.com/photo/sky-space-milky-way-stars-110854/')
+  background-color: cover
+  color: #fff;
 }
 
 .jumbotron p:last-child {
@@ -22,13 +24,12 @@ body {
 }
 
 .jumbotron .container {
-  max-width: 20rem;
+  max-width: 40rem;
 }
-
 
 .album {
   min-height: 50rem; /* Can be removed; just added for demo purposes */
-  padding-top: 6rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #f7f7f7;
 }
@@ -36,31 +37,27 @@ body {
 .card {
   float: left;
   width: 33.333%;
-  padding: .55rem;
-  margin-bottom: 3rem;
+  padding: .75rem;
+  margin-bottom: 2rem;
   border: 0;
 }
 
 .card > img {
-  margin-bottom: .55rem;
-  height:13em;
-  width:15em;
-  margin:auto;
+  margin-bottom: .75rem;
+  height: 16em;
+  width: 18em;
+  margin: auto;
 }
 
-.card > img:hover {
-  border-radius:14em;
-}
- 
 .card-text {
-  font-size: 75%;
+  font-size: 85%;
 }
 
 footer {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 footer p {
-  margin-bottom: .15rem;
+  margin-bottom: .25rem;
 }
