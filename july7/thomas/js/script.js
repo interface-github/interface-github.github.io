@@ -6,6 +6,9 @@ $(document).ready(function(){
   
   $("p").click(function(){
     $("p").css("color", "purple");
+    
+  $("#blue-box").click(function(){
+    $("#blue-box").css("background-color", "orange");
   });
   
 });
