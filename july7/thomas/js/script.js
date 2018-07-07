@@ -9,5 +9,7 @@ $(document).ready(function(){
     });
   
   $("#blue-box").click(function(){
-    $("#blue-box").css("background","green")  
+    $("#blue-box").css("background","green")
+  });
+  
 });
