@@ -9,7 +9,7 @@ $("#blue-box").fadeIn();
   });
   
   $("#blue-box").click(function)(){
-    $("#blue-box").css("background-color","aqua");
+    $("#blue-box").css("background","aqua");
   });
 
 
