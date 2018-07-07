@@ -9,7 +9,7 @@ $("#blue-box").fadeIn();
   });
   
   $("#blue-box").click(function(){
-    $("#blue-box").css("background","aqua");
+    $("#blue-box").css("borber-radius","100");
   });
 
 
