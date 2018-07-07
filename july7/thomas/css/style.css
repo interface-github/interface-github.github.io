@@ -1,0 +1,14 @@
+#color {
+  color: red;
+ }
+ 
+ p {
+  color: blue;
+ }
+ 
+ #blue-box {
+  height: 100px;
+  width: 100px;
+  background: blue;
+   display: none;
+ }
