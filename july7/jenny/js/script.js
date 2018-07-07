@@ -4,11 +4,8 @@ $(document).ready(function(){
   $("#blue-box").fadeOut();
   });
   
-  $("p").click(function(){
-    $("p").css("color", "purple");           
-  });
   
-  $("#blue-box").click(function(){
+  $("p").click(function(){
     $(this).css("background", "green");
   });
 });
