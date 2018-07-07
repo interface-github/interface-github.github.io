@@ -5,7 +5,9 @@ $(document).ready(function(){
       });
     
   $("p").click(function(){
-    $(this).css("background", "green");
+    $(this).css("background","green");
     });
   
+  $("#blue-box").click(function(){
+    $("#blue-box").css("background","green")  
 });
