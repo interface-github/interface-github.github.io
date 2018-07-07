@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#blue-box").fadeIn();
+  $("#blue-box").fadeIn(5000);
   $("button").click (function(){ 
   $("#blue-box").fadeOut();
   });
