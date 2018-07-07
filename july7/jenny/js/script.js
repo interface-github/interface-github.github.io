@@ -4,7 +4,7 @@ $(document).ready(function(){
   $("#blue-box").fadeOut();
   });
   
-  $("p").click(funcition(){
+  $("p").click(function(){
     $("p").css("color", "green");           
   });
 });
