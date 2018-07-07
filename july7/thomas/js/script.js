@@ -1,14 +1,14 @@
 $(document).ready(function(){
   $("#blue-box").fadeIn(3000);
   $("button").click(function(){
-    $("#blue-box").fadeOut(3000);
+    $("#blue-box").fadeOut();
       });
   
   $("p").click(function(){
-    $("p").css("color", "purple");
+    $("p").css("color", "green");
     
   $("#blue-box").click(function(){
-    $("#blue-box").css("background-color", "orange");
+    $("#blue-box").css("background", "orange");
     });
   
 });
