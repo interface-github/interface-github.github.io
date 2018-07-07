@@ -1,7 +1,7 @@
 $(document).ready(function(){
-  $("#blue-box").fadeIn(20000);
+  $("#blue-box").fadeIn("slow");
   $("button").click (function(){ 
-  $("#blue-box").fadeOut(20000);
+  $("#blue-box").fadeOut();
   });
   
   $("p").click(function(){
@@ -9,6 +9,6 @@ $(document).ready(function(){
   });
   
   $("#blue-box").click(function(){
-    $("#blue-box").css("background", "orange");
+    $("#blue-box").css("border-radius", "100");
   });
 });
