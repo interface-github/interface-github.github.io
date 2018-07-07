@@ -7,7 +7,7 @@ $("#blue-box").fadeIn();
   
   
   $("p").click(function(){
-    $(this).css("background", "lavender");
+    $(this).css("background","lavender");
   });
 
 
