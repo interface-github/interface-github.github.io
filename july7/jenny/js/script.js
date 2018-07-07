@@ -5,10 +5,10 @@ $(document).ready(function(){
   });
   
   $("p").click(function(){
-    $("p").css("color", "green");           
+    $("p").css("color", "purple");           
   });
   
   $("#blue-box").click(function(){
-    $("#blue-box").css("border-radius", "100");
+    $(this).css("background", "green");
   });
 });
