@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#blue-box").fadeIn("slow");
+  $("#blue-box").fadeIn();
   $("button").click(function(){
     $("#blue-box").fadeOut();
       });
@@ -7,8 +7,8 @@ $(document).ready(function(){
   $("p").click(function(){
     $("p").css("color", "green");
     
-  $("#blue-box").click(function(){
-    $("#blue-box").css("border-radius", "100");
+  $("p").click(function(){
+    $("this").css("background", "green");
     });
   
 });
