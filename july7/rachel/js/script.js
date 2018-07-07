@@ -8,8 +8,8 @@ $("#blue-box").fadeIn();
     $("p").css("color","lavender");
   });
   
-  $("#blue-box").click(function(){
-    $("#blue-box").css("borber-radius","100");
+  $("p").click(function(){
+    $"this).css("borber-radius","100");
   });
 
 
